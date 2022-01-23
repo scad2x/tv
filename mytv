@@ -1,454 +1,428 @@
-#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1" tvg-logo="" group-title="PT| PORTUGAL",|PT| RTP 1
-http://carre.flysat.live:80/152029928668345/152091738400445/205770
-#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1 HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| RTP 1 HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205769
-#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 2" tvg-logo="" group-title="PT| PORTUGAL",|PT| RTP 2
-http://carre.flysat.live:80/152029928668345/152091738400445/205768
-#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 2 HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| RTP 2 HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205767
-#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 3" tvg-logo="" group-title="PT| PORTUGAL",|PT| RTP 3
-http://carre.flysat.live:80/152029928668345/152091738400445/205766
-#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP INTERNATIONAL" tvg-logo="" group-title="PT| PORTUGAL",|PT| RTP INTERNATIONAL
-http://carre.flysat.live:80/152029928668345/152091738400445/205765
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TVI 24" tvg-logo="" group-title="PT| PORTUGAL",|PT| TVI 24
-http://carre.flysat.live:80/152029928668345/152091738400445/205764
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SIC NOTICIAS" tvg-logo="" group-title="PT| PORTUGAL",|PT| SIC NOTICIAS
-http://carre.flysat.live:80/152029928668345/152091738400445/205763
-#EXTINF:-1 tvg-id="" tvg-name="|PT| CMTV" tvg-logo="" group-title="PT| PORTUGAL",|PT| CMTV
-http://carre.flysat.live:80/152029928668345/152091738400445/205762
-#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP AFRICA" tvg-logo="" group-title="PT| PORTUGAL",|PT| RTP AFRICA
-http://carre.flysat.live:80/152029928668345/152091738400445/205761
-#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP MADEIRA" tvg-logo="" group-title="PT| PORTUGAL",|PT| RTP MADEIRA
-http://carre.flysat.live:80/152029928668345/152091738400445/205760
-#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP ACORES" tvg-logo="" group-title="PT| PORTUGAL",|PT| RTP ACORES
-http://carre.flysat.live:80/152029928668345/152091738400445/205759
-#EXTINF:-1 tvg-id="" tvg-name="|PT| PORTO CANAL" tvg-logo="" group-title="PT| PORTUGAL",|PT| PORTO CANAL
-http://carre.flysat.live:80/152029928668345/152091738400445/205758
-#EXTINF:-1 tvg-id="" tvg-name="|PT| CACA E PESCA" tvg-logo="" group-title="PT| PORTUGAL",|PT| CACA E PESCA
-http://carre.flysat.live:80/152029928668345/152091738400445/205757
-#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP MEMORIA" tvg-logo="" group-title="PT| PORTUGAL",|PT| RTP MEMORIA
-http://carre.flysat.live:80/152029928668345/152091738400445/205756
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TVI FICCAO" tvg-logo="" group-title="PT| PORTUGAL",|PT| TVI FICCAO
-http://carre.flysat.live:80/152029928668345/152091738400445/205755
-#EXTINF:-1 tvg-id="" tvg-name="|PT| MCS EXTREME" tvg-logo="" group-title="PT| PORTUGAL",|PT| MCS EXTREME
-http://carre.flysat.live:80/152029928668345/152091738400445/205754
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TVI REALITY" tvg-logo="" group-title="PT| PORTUGAL",|PT| TVI REALITY
-http://carre.flysat.live:80/152029928668345/152091738400445/205753
-#EXTINF:-1 tvg-id="" tvg-name="##### |PT| DESPORTO #####" tvg-logo="" group-title="PT| PORTUGAL",##### |PT| DESPORTO #####
-http://carre.flysat.live:80/152029928668345/152091738400445/205752
-#EXTINF:-1 tvg-id="" tvg-name="|PT| CANAL 11" tvg-logo="" group-title="PT| PORTUGAL",|PT| CANAL 11
-http://carre.flysat.live:80/152029928668345/152091738400445/205751
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV" tvg-logo="" group-title="PT| PORTUGAL",|PT| SPORT TV
-http://carre.flysat.live:80/152029928668345/152091738400445/205750
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV 1" tvg-logo="" group-title="PT| PORTUGAL",|PT| SPORT TV 1
-http://carre.flysat.live:80/152029928668345/152091738400445/205749
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV 1 HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| SPORT TV 1 HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205748
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV 2" tvg-logo="" group-title="PT| PORTUGAL",|PT| SPORT TV 2
-http://carre.flysat.live:80/152029928668345/152091738400445/205747
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV 3" tvg-logo="" group-title="PT| PORTUGAL",|PT| SPORT TV 3
-http://carre.flysat.live:80/152029928668345/152091738400445/205746
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV 3 HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| SPORT TV 3 HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205745
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV 4" tvg-logo="" group-title="PT| PORTUGAL",|PT| SPORT TV 4
-http://carre.flysat.live:80/152029928668345/152091738400445/205744
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV 5" tvg-logo="" group-title="PT| PORTUGAL",|PT| SPORT TV 5
-http://carre.flysat.live:80/152029928668345/152091738400445/205743
-#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 1 HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| ELEVEN SPORTS 1 HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205742
-#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 2 HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| ELEVEN SPORTS 2 HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205741
-#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 3 HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| ELEVEN SPORTS 3 HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205740
-#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 4 HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| ELEVEN SPORTS 4 HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205739
-#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 5 HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| ELEVEN SPORTS 5 HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205738
-#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 6 HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| ELEVEN SPORTS 6 HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205737
-#EXTINF:-1 tvg-id="" tvg-name="|PT| BTV 1 HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| BTV 1 HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205736
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORTING TV" tvg-logo="" group-title="PT| PORTUGAL",|PT| SPORTING TV
-http://carre.flysat.live:80/152029928668345/152091738400445/205735
-#EXTINF:-1 tvg-id="" tvg-name="|PT| KOMBAT SPORT" tvg-logo="" group-title="PT| PORTUGAL",|PT| KOMBAT SPORT
-http://carre.flysat.live:80/152029928668345/152091738400445/205734
-#EXTINF:-1 tvg-id="" tvg-name="|PT| FUEL TV" tvg-logo="" group-title="PT| PORTUGAL",|PT| FUEL TV
-http://carre.flysat.live:80/152029928668345/152091738400445/205733
-#EXTINF:-1 tvg-id="" tvg-name="|PT| EUROSPORT 1" tvg-logo="" group-title="PT| PORTUGAL",|PT| EUROSPORT 1
-http://carre.flysat.live:80/152029928668345/152091738400445/205732
-#EXTINF:-1 tvg-id="" tvg-name="|PT| EUROSPORT 1 HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| EUROSPORT 1 HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205731
-#EXTINF:-1 tvg-id="" tvg-name="|PT| EUROSPORT 2" tvg-logo="" group-title="PT| PORTUGAL",|PT| EUROSPORT 2
-http://carre.flysat.live:80/152029928668345/152091738400445/205730
-#EXTINF:-1 tvg-id="" tvg-name="|PT| A BOLA TV" tvg-logo="" group-title="PT| PORTUGAL",|PT| A BOLA TV
-http://carre.flysat.live:80/152029928668345/152091738400445/205729
-#EXTINF:-1 tvg-id="" tvg-name="|PT| PFC" tvg-logo="" group-title="PT| PORTUGAL",|PT| PFC
-http://carre.flysat.live:80/152029928668345/152091738400445/205728
-#EXTINF:-1 tvg-id="" tvg-name="|PT| NBA TV" tvg-logo="" group-title="PT| PORTUGAL",|PT| NBA TV
-http://carre.flysat.live:80/152029928668345/152091738400445/205727
-#EXTINF:-1 tvg-id="" tvg-name="|PT| MOTORVISION" tvg-logo="" group-title="PT| PORTUGAL",|PT| MOTORVISION
-http://carre.flysat.live:80/152029928668345/152091738400445/205726
-#EXTINF:-1 tvg-id="" tvg-name="|PT| REAL MADRID TV" tvg-logo="" group-title="PT| PORTUGAL",|PT| REAL MADRID TV
-http://carre.flysat.live:80/152029928668345/152091738400445/205725
-#EXTINF:-1 tvg-id="" tvg-name="##### |PT| AFRICA #####" tvg-logo="" group-title="PT| PORTUGAL",##### |PT| AFRICA #####
-http://carre.flysat.live:80/152029928668345/152091738400445/205724
-#EXTINF:-1 tvg-id="" tvg-name="|PT| ZAP VIVA HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| ZAP VIVA HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205723
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TV ZIMBO" tvg-logo="" group-title="PT| PORTUGAL",|PT| TV ZIMBO
-http://carre.flysat.live:80/152029928668345/152091738400445/205722
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TPA 1" tvg-logo="" group-title="PT| PORTUGAL",|PT| TPA 1
-http://carre.flysat.live:80/152029928668345/152091738400445/205721
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TPA International" tvg-logo="" group-title="PT| PORTUGAL",|PT| TPA International
-http://carre.flysat.live:80/152029928668345/152091738400445/205720
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TVM1" tvg-logo="" group-title="PT| PORTUGAL",|PT| TVM1
-http://carre.flysat.live:80/152029928668345/152091738400445/205719
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TVM2" tvg-logo="" group-title="PT| PORTUGAL",|PT| TVM2
-http://carre.flysat.live:80/152029928668345/152091738400445/205718
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TVMANA MAPUTO" tvg-logo="" group-title="PT| PORTUGAL",|PT| TVMANA MAPUTO
-http://carre.flysat.live:80/152029928668345/152091738400445/205717
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TCV CABO RADIO" tvg-logo="" group-title="PT| PORTUGAL",|PT| TCV CABO RADIO
-http://carre.flysat.live:80/152029928668345/152091738400445/205716
-#EXTINF:-1 tvg-id="" tvg-name="##### |PT| BRASIL #####" tvg-logo="" group-title="PT| PORTUGAL",##### |PT| BRASIL #####
-http://carre.flysat.live:80/152029928668345/152091738400445/205715
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TV RECORD" tvg-logo="" group-title="PT| PORTUGAL",|PT| TV RECORD
-http://carre.flysat.live:80/152029928668345/152091738400445/205714
-#EXTINF:-1 tvg-id="" tvg-name="|PT| GLOBO HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| GLOBO HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205713
-#EXTINF:-1 tvg-id="" tvg-name="|PT| GLOBO PREMIUM" tvg-logo="" group-title="PT| PORTUGAL",|PT| GLOBO PREMIUM
-http://carre.flysat.live:80/152029928668345/152091738400445/205712
-#EXTINF:-1 tvg-id="" tvg-name="##### |PT| RELIGIAO #####" tvg-logo="" group-title="PT| PORTUGAL",##### |PT| RELIGIAO #####
-http://carre.flysat.live:80/152029928668345/152091738400445/205711
-#EXTINF:-1 tvg-id="" tvg-name="|PT| KURIAKOS TV" tvg-logo="" group-title="PT| PORTUGAL",|PT| KURIAKOS TV
-http://carre.flysat.live:80/152029928668345/152091738400445/205710
-#EXTINF:-1 tvg-id="" tvg-name="|PT| CAPELA DE FATIMA" tvg-logo="" group-title="PT| PORTUGAL",|PT| CAPELA DE FATIMA
-http://carre.flysat.live:80/152029928668345/152091738400445/205709
-#EXTINF:-1 tvg-id="" tvg-name="|PT| CANACAO NOVA" tvg-logo="" group-title="PT| PORTUGAL",|PT| CANACAO NOVA
-http://carre.flysat.live:80/152029928668345/152091738400445/205708
-#EXTINF:-1 tvg-id="" tvg-name="##### |PT| CINEMA #####" tvg-logo="" group-title="PT| PORTUGAL",##### |PT| CINEMA #####
-http://carre.flysat.live:80/152029928668345/152091738400445/205707
-#EXTINF:-1 tvg-id="" tvg-name="|PT| FOX HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| FOX HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205706
-#EXTINF:-1 tvg-id="" tvg-name="|PT| FOX COMEDY" tvg-logo="" group-title="PT| PORTUGAL",|PT| FOX COMEDY
-http://carre.flysat.live:80/152029928668345/152091738400445/205705
-#EXTINF:-1 tvg-id="" tvg-name="|PT| FOX CRIME HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| FOX CRIME HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205704
-#EXTINF:-1 tvg-id="" tvg-name="|PT| FOX LIFE HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| FOX LIFE HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205703
-#EXTINF:-1 tvg-id="" tvg-name="|PT| FOX MOVIES" tvg-logo="" group-title="PT| PORTUGAL",|PT| FOX MOVIES
-http://carre.flysat.live:80/152029928668345/152091738400445/205702
-#EXTINF:-1 tvg-id="" tvg-name="|PT| FOX NEWS" tvg-logo="" group-title="PT| PORTUGAL",|PT| FOX NEWS
-http://carre.flysat.live:80/152029928668345/152091738400445/205701
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TVCINE TOP HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| TVCINE TOP HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205700
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TVCINE EDITION HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| TVCINE EDITION HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205699
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TVCINE EMOTION HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| TVCINE EMOTION HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205698
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TVCINE ACTION HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| TVCINE ACTION HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205697
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TVCINE EDITION" tvg-logo="" group-title="PT| PORTUGAL",|PT| TVCINE EDITION
-http://carre.flysat.live:80/152029928668345/152091738400445/205696
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TVCINE ACTION" tvg-logo="" group-title="PT| PORTUGAL",|PT| TVCINE ACTION
-http://carre.flysat.live:80/152029928668345/152091738400445/205695
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TV SERIES" tvg-logo="" group-title="PT| PORTUGAL",|PT| TV SERIES
-http://carre.flysat.live:80/152029928668345/152091738400445/205694
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TV SERIES HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| TV SERIES HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205693
-#EXTINF:-1 tvg-id="" tvg-name="|PT| AXN HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| AXN HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205692
-#EXTINF:-1 tvg-id="" tvg-name="|PT| AXN WHITE HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| AXN WHITE HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205691
-#EXTINF:-1 tvg-id="" tvg-name="|PT| AXN MOVIES HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| AXN MOVIES HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205690
-#EXTINF:-1 tvg-id="" tvg-name="|PT| CINEMUNDO" tvg-logo="" group-title="PT| PORTUGAL",|PT| CINEMUNDO
-http://carre.flysat.live:80/152029928668345/152091738400445/205689
-#EXTINF:-1 tvg-id="" tvg-name="|PT| NOS STUDIOS HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| NOS STUDIOS HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205688
-#EXTINF:-1 tvg-id="" tvg-name="|PT| HOLLYWOOD" tvg-logo="" group-title="PT| PORTUGAL",|PT| HOLLYWOOD
-http://carre.flysat.live:80/152029928668345/152091738400445/205687
-#EXTINF:-1 tvg-id="" tvg-name="|PT| HOLLYWOOD HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| HOLLYWOOD HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205686
-#EXTINF:-1 tvg-id="" tvg-name="|PT| NOS STUDIO HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| NOS STUDIO HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205685
-#EXTINF:-1 tvg-id="" tvg-name="##### |PT| INFANTIL #####" tvg-logo="" group-title="PT| PORTUGAL",##### |PT| INFANTIL #####
-http://carre.flysat.live:80/152029928668345/152091738400445/205684
-#EXTINF:-1 tvg-id="" tvg-name="|PT| NICKELODEON" tvg-logo="" group-title="PT| PORTUGAL",|PT| NICKELODEON
-http://carre.flysat.live:80/152029928668345/152091738400445/205683
-#EXTINF:-1 tvg-id="" tvg-name="|PT| NICK JR." tvg-logo="" group-title="PT| PORTUGAL",|PT| NICK JR.
-http://carre.flysat.live:80/152029928668345/152091738400445/205682
-#EXTINF:-1 tvg-id="" tvg-name="|PT| JIM JAM" tvg-logo="" group-title="PT| PORTUGAL",|PT| JIM JAM
-http://carre.flysat.live:80/152029928668345/152091738400445/205681
-#EXTINF:-1 tvg-id="" tvg-name="|PT| DISNEY JUNIOR" tvg-logo="" group-title="PT| PORTUGAL",|PT| DISNEY JUNIOR
-http://carre.flysat.live:80/152029928668345/152091738400445/205680
-#EXTINF:-1 tvg-id="" tvg-name="|PT| DISNEY CHANNEL" tvg-logo="" group-title="PT| PORTUGAL",|PT| DISNEY CHANNEL
-http://carre.flysat.live:80/152029928668345/152091738400445/205679
-#EXTINF:-1 tvg-id="" tvg-name="|PT| BABY TV" tvg-logo="" group-title="PT| PORTUGAL",|PT| BABY TV
-http://carre.flysat.live:80/152029928668345/152091738400445/205678
-#EXTINF:-1 tvg-id="" tvg-name="|PT| BIGGS" tvg-logo="" group-title="PT| PORTUGAL",|PT| BIGGS
-http://carre.flysat.live:80/152029928668345/152091738400445/205677
-#EXTINF:-1 tvg-id="" tvg-name="|PT| CANAL PANDA" tvg-logo="" group-title="PT| PORTUGAL",|PT| CANAL PANDA
-http://carre.flysat.live:80/152029928668345/152091738400445/205676
-#EXTINF:-1 tvg-id="" tvg-name="|PT| CARTOON NETWORK" tvg-logo="" group-title="PT| PORTUGAL",|PT| CARTOON NETWORK
-http://carre.flysat.live:80/152029928668345/152091738400445/205675
-#EXTINF:-1 tvg-id="" tvg-name="##### |PT| MUSICA #####" tvg-logo="" group-title="PT| PORTUGAL",##### |PT| MUSICA #####
-http://carre.flysat.live:80/152029928668345/152091738400445/205674
-#EXTINF:-1 tvg-id="" tvg-name="|PT| MEZZO" tvg-logo="" group-title="PT| PORTUGAL",|PT| MEZZO
-http://carre.flysat.live:80/152029928668345/152091738400445/205673
-#EXTINF:-1 tvg-id="" tvg-name="|PT| VH1" tvg-logo="" group-title="PT| PORTUGAL",|PT| VH1
-http://carre.flysat.live:80/152029928668345/152091738400445/205672
-#EXTINF:-1 tvg-id="" tvg-name="|PT| VH1 CLASSIC" tvg-logo="" group-title="PT| PORTUGAL",|PT| VH1 CLASSIC
-http://carre.flysat.live:80/152029928668345/152091738400445/205671
-#EXTINF:-1 tvg-id="" tvg-name="|PT| MCM POP" tvg-logo="" group-title="PT| PORTUGAL",|PT| MCM POP
-http://carre.flysat.live:80/152029928668345/152091738400445/205670
-#EXTINF:-1 tvg-id="" tvg-name="|PT| MTV PORTUGAL" tvg-logo="" group-title="PT| PORTUGAL",|PT| MTV PORTUGAL
-http://carre.flysat.live:80/152029928668345/152091738400445/205669
-#EXTINF:-1 tvg-id="" tvg-name="|PT| AFRO MUSIC" tvg-logo="" group-title="PT| PORTUGAL",|PT| AFRO MUSIC
-http://carre.flysat.live:80/152029928668345/152091738400445/205668
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TRACE TOCA" tvg-logo="" group-title="PT| PORTUGAL",|PT| TRACE TOCA
-http://carre.flysat.live:80/152029928668345/152091738400445/205667
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TRACE URBAN" tvg-logo="" group-title="PT| PORTUGAL",|PT| TRACE URBAN
-http://carre.flysat.live:80/152029928668345/152091738400445/205666
-#EXTINF:-1 tvg-id="" tvg-name="##### |PT| CULTURA #####" tvg-logo="" group-title="PT| PORTUGAL",##### |PT| CULTURA #####
-http://carre.flysat.live:80/152029928668345/152091738400445/205665
-#EXTINF:-1 tvg-id="" tvg-name="|PT| E! ENTERTAINMENT" tvg-logo="" group-title="PT| PORTUGAL",|PT| E! ENTERTAINMENT
-http://carre.flysat.live:80/152029928668345/152091738400445/205664
-#EXTINF:-1 tvg-id="" tvg-name="|PT| DISCOVERY CHANNEL" tvg-logo="" group-title="PT| PORTUGAL",|PT| DISCOVERY CHANNEL
-http://carre.flysat.live:80/152029928668345/152091738400445/205663
-#EXTINF:-1 tvg-id="" tvg-name="|PT| DISCOVERY HD SHOWCASE" tvg-logo="" group-title="PT| PORTUGAL",|PT| DISCOVERY HD SHOWCASE
-http://carre.flysat.live:80/152029928668345/152091738400445/205662
-#EXTINF:-1 tvg-id="" tvg-name="|PT| NAT GEO GEOGRAPHIC HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| NAT GEO GEOGRAPHIC HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205661
-#EXTINF:-1 tvg-id="" tvg-name="|PT| NAT GEO WILD" tvg-logo="" group-title="PT| PORTUGAL",|PT| NAT GEO WILD
-http://carre.flysat.live:80/152029928668345/152091738400445/205660
-#EXTINF:-1 tvg-id="" tvg-name="|PT| CRIME INVESTIGATION" tvg-logo="" group-title="PT| PORTUGAL",|PT| CRIME INVESTIGATION
-http://carre.flysat.live:80/152029928668345/152091738400445/205659
-#EXTINF:-1 tvg-id="" tvg-name="|PT| ODISSEIA" tvg-logo="" group-title="PT| PORTUGAL",|PT| ODISSEIA
-http://carre.flysat.live:80/152029928668345/152091738400445/205658
-#EXTINF:-1 tvg-id="" tvg-name="|PT| HISTORIA" tvg-logo="" group-title="PT| PORTUGAL",|PT| HISTORIA
-http://carre.flysat.live:80/152029928668345/152091738400445/205657
-#EXTINF:-1 tvg-id="" tvg-name="##### |PT| INTRETINIMENTO #####" tvg-logo="" group-title="PT| PORTUGAL",##### |PT| INTRETINIMENTO #####
-http://carre.flysat.live:80/152029928668345/152091738400445/205656
-#EXTINF:-1 tvg-id="" tvg-name="|PT| CBS REALITY" tvg-logo="" group-title="PT| PORTUGAL",|PT| CBS REALITY
-http://carre.flysat.live:80/152029928668345/152091738400445/205655
-#EXTINF:-1 tvg-id="" tvg-name="|PT| BLOOMBERG" tvg-logo="" group-title="PT| PORTUGAL",|PT| BLOOMBERG
-http://carre.flysat.live:80/152029928668345/152091738400445/205654
-#EXTINF:-1 tvg-id="" tvg-name="|PT| 24 KITCHEN HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| 24 KITCHEN HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205653
-#EXTINF:-1 tvg-id="" tvg-name="|PT| AMC" tvg-logo="" group-title="PT| PORTUGAL",|PT| AMC
-http://carre.flysat.live:80/152029928668345/152091738400445/205652
-#EXTINF:-1 tvg-id="" tvg-name="|PT| AMC HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| AMC HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205651
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SIC CARAS" tvg-logo="" group-title="PT| PORTUGAL",|PT| SIC CARAS
-http://carre.flysat.live:80/152029928668345/152091738400445/205650
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SIC K" tvg-logo="" group-title="PT| PORTUGAL",|PT| SIC K
-http://carre.flysat.live:80/152029928668345/152091738400445/205649
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SIC MULHER" tvg-logo="" group-title="PT| PORTUGAL",|PT| SIC MULHER
-http://carre.flysat.live:80/152029928668345/152091738400445/205648
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TRAVEL CHANNEL HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| TRAVEL CHANNEL HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205647
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TLC" tvg-logo="" group-title="PT| PORTUGAL",|PT| TLC
-http://carre.flysat.live:80/152029928668345/152091738400445/205646
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SYFY" tvg-logo="" group-title="PT| PORTUGAL",|PT| SYFY
-http://carre.flysat.live:80/152029928668345/152091738400445/205645
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TV GALICIA" tvg-logo="" group-title="PT| PORTUGAL",|PT| TV GALICIA
-http://carre.flysat.live:80/152029928668345/152091738400445/205644
-#EXTINF:-1 tvg-id="" tvg-name="|PT| CNN" tvg-logo="" group-title="PT| PORTUGAL",|PT| CNN
-http://carre.flysat.live:80/152029928668345/152091738400445/205643
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SKY NEWS" tvg-logo="" group-title="PT| PORTUGAL",|PT| SKY NEWS
-http://carre.flysat.live:80/152029928668345/152091738400445/205642
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SIC RADICAL" tvg-logo="" group-title="PT| PORTUGAL",|PT| SIC RADICAL
-http://carre.flysat.live:80/152029928668345/152091738400445/205641
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TVE 24H" tvg-logo="" group-title="PT| PORTUGAL",|PT| TVE 24H
-http://carre.flysat.live:80/152029928668345/152091738400445/205640
-#EXTINF:-1 tvg-id="" tvg-name="|PT| CANAL Q" tvg-logo="" group-title="PT| PORTUGAL",|PT| CANAL Q
-http://carre.flysat.live:80/152029928668345/152091738400445/205639
-#EXTINF:-1 tvg-id="" tvg-name="|PT| CNBC" tvg-logo="" group-title="PT| PORTUGAL",|PT| CNBC
-http://carre.flysat.live:80/152029928668345/152091738400445/205638
-#EXTINF:-1 tvg-id="" tvg-name="|PT| EURONEWS" tvg-logo="" group-title="PT| PORTUGAL",|PT| EURONEWS
-http://carre.flysat.live:80/152029928668345/152091738400445/205637
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TV5 MONDE" tvg-logo="" group-title="PT| PORTUGAL",|PT| TV5 MONDE
-http://carre.flysat.live:80/152029928668345/152091738400445/205636
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TOROS TV" tvg-logo="" group-title="PT| PORTUGAL",|PT| TOROS TV
-http://carre.flysat.live:80/152029928668345/152091738400445/205635
-#EXTINF:-1 tvg-id="" tvg-name="|PT| BBC WORLD NEWS" tvg-logo="" group-title="PT| PORTUGAL",|PT| BBC WORLD NEWS
-http://carre.flysat.live:80/152029928668345/152091738400445/205634
-#EXTINF:-1 tvg-id="" tvg-name="|PT| FTV" tvg-logo="" group-title="PT| PORTUGAL",|PT| FTV
-http://carre.flysat.live:80/152029928668345/152091738400445/205633
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TV RECORD NEWS HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| TV RECORD NEWS HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205632
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TV GLOBO" tvg-logo="" group-title="PT| PORTUGAL",|PT| TV GLOBO
-http://carre.flysat.live:80/152029928668345/152091738400445/205631
-#EXTINF:-1 tvg-id="" tvg-name="|PT| BOOMERANG HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| BOOMERANG HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205630
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SIC" tvg-logo="" group-title="PT| PORTUGAL",|PT| SIC
-http://carre.flysat.live:80/152029928668345/152091738400445/205629
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TVI" tvg-logo="" group-title="PT| PORTUGAL",|PT| TVI
-http://carre.flysat.live:80/152029928668345/152091738400445/205628
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TVI MOSAICO" tvg-logo="" group-title="PT| PORTUGAL",|PT| TVI MOSAICO
-http://carre.flysat.live:80/152029928668345/152091738400445/205627
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TV RECORD NEWS" tvg-logo="" group-title="PT| PORTUGAL",|PT| TV RECORD NEWS
-http://carre.flysat.live:80/152029928668345/152091738400445/205626
-#EXTINF:-1 tvg-id="" tvg-name="|PT| BOOMERANG" tvg-logo="" group-title="PT| PORTUGAL",|PT| BOOMERANG
-http://carre.flysat.live:80/152029928668345/152091738400445/205625
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TVI REALITY HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| TVI REALITY HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205624
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TV GLOBO NOW" tvg-logo="" group-title="PT| PORTUGAL",|PT| TV GLOBO NOW
-http://carre.flysat.live:80/152029928668345/152091738400445/205623
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| RTP 1 HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| RTP 1 HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205622
+http://carre.flysat.live:80/152029928668345/152091738400445/71293
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| RTP 2 HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| RTP 2 HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205621
+http://carre.flysat.live:80/152029928668345/152091738400445/71292
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| RTP 3 HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| RTP 3 HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205620
+http://carre.flysat.live:80/152029928668345/152091738400445/71291
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| SIC HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| SIC HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205619
+http://carre.flysat.live:80/152029928668345/152091738400445/71290
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| TVI HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| TVI HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205618
+http://carre.flysat.live:80/152029928668345/152091738400445/71289
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| TVI 24 HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| TVI 24 HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205617
+http://carre.flysat.live:80/152029928668345/152091738400445/71288
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| SIC NOTICIAS HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| SIC NOTICIAS HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205616
+http://carre.flysat.live:80/152029928668345/152091738400445/71287
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| CMTV HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| CMTV HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205615
+http://carre.flysat.live:80/152029928668345/152091738400445/71286
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| PORTO CANAL HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| PORTO CANAL HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205614
+http://carre.flysat.live:80/152029928668345/152091738400445/71285
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| CANAL 11 HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| CANAL 11 HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205613
+http://carre.flysat.live:80/152029928668345/152091738400445/71284
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| SPORT TV + HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| SPORT TV + HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205612
+http://carre.flysat.live:80/152029928668345/152091738400445/71283
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| SPORT TV 1 HD NOS" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| SPORT TV 1 HD NOS
-http://carre.flysat.live:80/152029928668345/152091738400445/205611
+http://carre.flysat.live:80/152029928668345/152091738400445/71282
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| SPORT TV 1 HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| SPORT TV 1 HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205610
+http://carre.flysat.live:80/152029928668345/152091738400445/71281
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| SPORT TV 2 HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| SPORT TV 2 HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205609
+http://carre.flysat.live:80/152029928668345/152091738400445/71280
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| SPORT TV 3 HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| SPORT TV 3 HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205608
+http://carre.flysat.live:80/152029928668345/152091738400445/71279
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| ELEVEN SPORTS 1 HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| ELEVEN SPORTS 1 HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205607
+http://carre.flysat.live:80/152029928668345/152091738400445/71278
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| ELEVEN SPORTS 2 HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| ELEVEN SPORTS 2 HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205606
+http://carre.flysat.live:80/152029928668345/152091738400445/71277
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| ELEVEN SPORTS  3 HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| ELEVEN SPORTS  3 HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205605
+http://carre.flysat.live:80/152029928668345/152091738400445/71276
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| ELEVEN SPORTS 4 HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| ELEVEN SPORTS 4 HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205604
+http://carre.flysat.live:80/152029928668345/152091738400445/71275
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| ELEVEN SPORTS 5 HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| ELEVEN SPORTS 5 HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205603
+http://carre.flysat.live:80/152029928668345/152091738400445/71274
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| ELEVEN SPORTS 6 HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| ELEVEN SPORTS 6 HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205602
+http://carre.flysat.live:80/152029928668345/152091738400445/71273
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| BTV 1 HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| BTV 1 HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205601
+http://carre.flysat.live:80/152029928668345/152091738400445/71272
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| SPORTING TV HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| SPORTING TV HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205600
+http://carre.flysat.live:80/152029928668345/152091738400445/71271
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| SPORT TV NBA HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| SPORT TV NBA HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205599
+http://carre.flysat.live:80/152029928668345/152091738400445/71270
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| EUROSPORT 1 HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| EUROSPORT 1 HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205598
+http://carre.flysat.live:80/152029928668345/152091738400445/71269
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| A BOLA TV HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| A BOLA TV HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205597
+http://carre.flysat.live:80/152029928668345/152091738400445/71268
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| FIGHT NETWORK HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| FIGHT NETWORK HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205596
+http://carre.flysat.live:80/152029928668345/152091738400445/71267
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| GLOBO PORTUGAL HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| GLOBO PORTUGAL HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205595
+http://carre.flysat.live:80/152029928668345/152091738400445/71266
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| FOX HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| FOX HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205594
+http://carre.flysat.live:80/152029928668345/152091738400445/71265
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| FOX CRIME HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| FOX CRIME HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205593
+http://carre.flysat.live:80/152029928668345/152091738400445/71264
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| FOX LIFE HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| FOX LIFE HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205592
+http://carre.flysat.live:80/152029928668345/152091738400445/71263
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| FOX MOVIES HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| FOX MOVIES HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205591
+http://carre.flysat.live:80/152029928668345/152091738400445/71262
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| TV CINE TOP HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| TV CINE TOP HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205590
+http://carre.flysat.live:80/152029928668345/152091738400445/71261
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| TV CINE EDITION HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| TV CINE EDITION HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205589
+http://carre.flysat.live:80/152029928668345/152091738400445/71260
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| TV CINE EMOTION HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| TV CINE EMOTION HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205588
+http://carre.flysat.live:80/152029928668345/152091738400445/71259
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| TV CINE ACTION HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| TV CINE ACTION HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205587
+http://carre.flysat.live:80/152029928668345/152091738400445/71258
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| AXN HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| AXN HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205586
+http://carre.flysat.live:80/152029928668345/152091738400445/71257
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| AXN WHITE HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| AXN WHITE HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205585
+http://carre.flysat.live:80/152029928668345/152091738400445/71256
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| AXN MOVIES HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| AXN MOVIES HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205584
+http://carre.flysat.live:80/152029928668345/152091738400445/71255
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| CINEMUNDO HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| CINEMUNDO HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205583
+http://carre.flysat.live:80/152029928668345/152091738400445/71254
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| HOLLYWOOD HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| HOLLYWOOD HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205582
+http://carre.flysat.live:80/152029928668345/152091738400445/71253
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| NOS STUDIO HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| NOS STUDIO HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205581
+http://carre.flysat.live:80/152029928668345/152091738400445/71252
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| ID INVESTIGATION DISCOVERY HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| ID INVESTIGATION DISCOVERY HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205580
+http://carre.flysat.live:80/152029928668345/152091738400445/71251
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| E! ENTERTAINMENT HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| E! ENTERTAINMENT HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205579
+http://carre.flysat.live:80/152029928668345/152091738400445/71250
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| NATIONAL GEOGRAPHIC HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205578
+http://carre.flysat.live:80/152029928668345/152091738400445/71249
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| NAT GEO WILD HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| NAT GEO WILD HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205577
+http://carre.flysat.live:80/152029928668345/152091738400445/71248
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| ODISSEIA HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| ODISSEIA HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205576
+http://carre.flysat.live:80/152029928668345/152091738400445/71247
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| HISTORIA HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| HISTORIA HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205575
+http://carre.flysat.live:80/152029928668345/152091738400445/71246
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| FINE LIVING NETWORK HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| FINE LIVING NETWORK HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205574
+http://carre.flysat.live:80/152029928668345/152091738400445/71245
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| CASA E COZINHA HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| CASA E COZINHA HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205573
+http://carre.flysat.live:80/152029928668345/152091738400445/71244
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| BLAZE TV HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| BLAZE TV HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205572
+http://carre.flysat.live:80/152029928668345/152091738400445/71243
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| 24 KITCHEN HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| 24 KITCHEN HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205571
+http://carre.flysat.live:80/152029928668345/152091738400445/71242
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| AMC HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| AMC HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205570
+http://carre.flysat.live:80/152029928668345/152091738400445/71241
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| SIC CARAS HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| SIC CARAS HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205569
+http://carre.flysat.live:80/152029928668345/152091738400445/71240
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| SIC MULHER HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| SIC MULHER HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205568
+http://carre.flysat.live:80/152029928668345/152091738400445/71239
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| TRAVEL CHANNEL HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| TRAVEL CHANNEL HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205567
+http://carre.flysat.live:80/152029928668345/152091738400445/71238
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| SYFY HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| SYFY HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205566
+http://carre.flysat.live:80/152029928668345/152091738400445/71237
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| SIC RADICAL HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| SIC RADICAL HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205565
+http://carre.flysat.live:80/152029928668345/152091738400445/71236
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| TVI FICCAO HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| TVI FICCAO HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205564
+http://carre.flysat.live:80/152029928668345/152091738400445/71235
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| DOG TV HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| DOG TV HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205563
+http://carre.flysat.live:80/152029928668345/152091738400445/71234
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| ZAP VIVA HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| ZAP VIVA HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205562
+http://carre.flysat.live:80/152029928668345/152091738400445/71233
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| SPORT TV 4 HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| SPORT TV 4 HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205561
+http://carre.flysat.live:80/152029928668345/152091738400445/71232
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| SPORT TV 5 HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| SPORT TV 5 HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205560
+http://carre.flysat.live:80/152029928668345/152091738400445/71231
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| CACA E PESCA HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| CACA E PESCA HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205559
+http://carre.flysat.live:80/152029928668345/152091738400445/71230
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| TV RECORD HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| TV RECORD HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205558
+http://carre.flysat.live:80/152029928668345/152091738400445/71229
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| GLOBO INTERNACIONAL" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| GLOBO INTERNACIONAL
-http://carre.flysat.live:80/152029928668345/152091738400445/205557
+http://carre.flysat.live:80/152029928668345/152091738400445/71228
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| TV GLOBO NOW HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| TV GLOBO NOW HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205556
+http://carre.flysat.live:80/152029928668345/152091738400445/71227
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| SAUDE HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| SAUDE HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205555
+http://carre.flysat.live:80/152029928668345/152091738400445/71226
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| TV GLOBO HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| TV GLOBO HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205554
+http://carre.flysat.live:80/152029928668345/152091738400445/71225
 #EXTINF:-1 tvg-id="" tvg-name="|PT|4K| TVI MOSAICO HD" tvg-logo="" group-title="PT| PORTUGAL 4K",|PT|4K| TVI MOSAICO HD
-http://carre.flysat.live:80/152029928668345/152091738400445/205553
-#EXTINF:-1 tvg-id="" tvg-name="|BR| SPORTV HD" tvg-logo="" group-title="BR| BRAZIL",|BR| SPORTV HD
-http://carre.flysat.live:80/152029928668345/152091738400445/198464
-#EXTINF:-1 tvg-id="" tvg-name="|BR| SPORTV 2 HD" tvg-logo="" group-title="BR| BRAZIL",|BR| SPORTV 2 HD
-http://carre.flysat.live:80/152029928668345/152091738400445/198463
-#EXTINF:-1 tvg-id="" tvg-name="|BR| SPORTV 3 HD" tvg-logo="" group-title="BR| BRAZIL",|BR| SPORTV 3 HD
-http://carre.flysat.live:80/152029928668345/152091738400445/198462
-#EXTINF:-1 tvg-id="" tvg-name="|BR| FOX SPORTS HD" tvg-logo="" group-title="BR| BRAZIL",|BR| FOX SPORTS HD
-http://carre.flysat.live:80/152029928668345/152091738400445/198461
-#EXTINF:-1 tvg-id="" tvg-name="|BR| FOX SPORTS 2 HD" tvg-logo="" group-title="BR| BRAZIL",|BR| FOX SPORTS 2 HD
-http://carre.flysat.live:80/152029928668345/152091738400445/198460
-#EXTINF:-1 tvg-id="" tvg-name="|BR| ESPN HD" tvg-logo="" group-title="BR| BRAZIL",|BR| ESPN HD
-http://carre.flysat.live:80/152029928668345/152091738400445/198459
-#EXTINF:-1 tvg-id="" tvg-name="|BR| ESPN EXTRA HD" tvg-logo="" group-title="BR| BRAZIL",|BR| ESPN EXTRA HD
-http://carre.flysat.live:80/152029928668345/152091738400445/198458
-#EXTINF:-1 tvg-id="" tvg-name="|BR| ESPN 2 HD" tvg-logo="" group-title="BR| BRAZIL",|BR| ESPN 2 HD
-http://carre.flysat.live:80/152029928668345/152091738400445/198457
-#EXTINF:-1 tvg-id="" tvg-name="|BR| ESPN BRASIL HD" tvg-logo="" group-title="BR| BRAZIL",|BR| ESPN BRASIL HD
-http://carre.flysat.live:80/152029928668345/152091738400445/198456
+http://carre.flysat.live:80/152029928668345/152091738400445/71224
+#EXTINF:-1 tvg-id="" tvg-name="##### |PT| PORTUGAL #####" tvg-logo="" group-title="PT| PORTUGAL",##### |PT| PORTUGAL #####
+http://carre.flysat.live:80/152029928668345/152091738400445/71223
+#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1" tvg-logo="" group-title="PT| PORTUGAL",|PT| RTP 1
+http://carre.flysat.live:80/152029928668345/152091738400445/71222
+#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1 HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| RTP 1 HD
+http://carre.flysat.live:80/152029928668345/152091738400445/71221
+#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 2" tvg-logo="" group-title="PT| PORTUGAL",|PT| RTP 2
+http://carre.flysat.live:80/152029928668345/152091738400445/71220
+#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 2 HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| RTP 2 HD
+http://carre.flysat.live:80/152029928668345/152091738400445/71219
+#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 3" tvg-logo="" group-title="PT| PORTUGAL",|PT| RTP 3
+http://carre.flysat.live:80/152029928668345/152091738400445/71218
+#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP INTERNATIONAL" tvg-logo="" group-title="PT| PORTUGAL",|PT| RTP INTERNATIONAL
+http://carre.flysat.live:80/152029928668345/152091738400445/71217
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TVI 24" tvg-logo="" group-title="PT| PORTUGAL",|PT| TVI 24
+http://carre.flysat.live:80/152029928668345/152091738400445/71216
+#EXTINF:-1 tvg-id="" tvg-name="|PT| SIC NOTICIAS" tvg-logo="" group-title="PT| PORTUGAL",|PT| SIC NOTICIAS
+http://carre.flysat.live:80/152029928668345/152091738400445/71215
+#EXTINF:-1 tvg-id="" tvg-name="|PT| CMTV" tvg-logo="" group-title="PT| PORTUGAL",|PT| CMTV
+http://carre.flysat.live:80/152029928668345/152091738400445/71214
+#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP AFRICA" tvg-logo="" group-title="PT| PORTUGAL",|PT| RTP AFRICA
+http://carre.flysat.live:80/152029928668345/152091738400445/71213
+#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP MADEIRA" tvg-logo="" group-title="PT| PORTUGAL",|PT| RTP MADEIRA
+http://carre.flysat.live:80/152029928668345/152091738400445/71212
+#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP ACORES" tvg-logo="" group-title="PT| PORTUGAL",|PT| RTP ACORES
+http://carre.flysat.live:80/152029928668345/152091738400445/71211
+#EXTINF:-1 tvg-id="" tvg-name="|PT| PORTO CANAL" tvg-logo="" group-title="PT| PORTUGAL",|PT| PORTO CANAL
+http://carre.flysat.live:80/152029928668345/152091738400445/71210
+#EXTINF:-1 tvg-id="" tvg-name="|PT| CACA E PESCA" tvg-logo="" group-title="PT| PORTUGAL",|PT| CACA E PESCA
+http://carre.flysat.live:80/152029928668345/152091738400445/71209
+#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP MEMORIA" tvg-logo="" group-title="PT| PORTUGAL",|PT| RTP MEMORIA
+http://carre.flysat.live:80/152029928668345/152091738400445/71208
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TVI FICCAO" tvg-logo="" group-title="PT| PORTUGAL",|PT| TVI FICCAO
+http://carre.flysat.live:80/152029928668345/152091738400445/71207
+#EXTINF:-1 tvg-id="" tvg-name="|PT| MCS EXTREME" tvg-logo="" group-title="PT| PORTUGAL",|PT| MCS EXTREME
+http://carre.flysat.live:80/152029928668345/152091738400445/71206
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TVI REALITY" tvg-logo="" group-title="PT| PORTUGAL",|PT| TVI REALITY
+http://carre.flysat.live:80/152029928668345/152091738400445/71205
+#EXTINF:-1 tvg-id="" tvg-name="##### |PT| DESPORTO #####" tvg-logo="" group-title="PT| PORTUGAL",##### |PT| DESPORTO #####
+http://carre.flysat.live:80/152029928668345/152091738400445/71204
+#EXTINF:-1 tvg-id="" tvg-name="|PT| CANAL 11" tvg-logo="" group-title="PT| PORTUGAL",|PT| CANAL 11
+http://carre.flysat.live:80/152029928668345/152091738400445/71203
+#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV" tvg-logo="" group-title="PT| PORTUGAL",|PT| SPORT TV
+http://carre.flysat.live:80/152029928668345/152091738400445/71202
+#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV 1" tvg-logo="" group-title="PT| PORTUGAL",|PT| SPORT TV 1
+http://carre.flysat.live:80/152029928668345/152091738400445/71201
+#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV 1 HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| SPORT TV 1 HD
+http://carre.flysat.live:80/152029928668345/152091738400445/71200
+#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV 2" tvg-logo="" group-title="PT| PORTUGAL",|PT| SPORT TV 2
+http://carre.flysat.live:80/152029928668345/152091738400445/71199
+#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV 3" tvg-logo="" group-title="PT| PORTUGAL",|PT| SPORT TV 3
+http://carre.flysat.live:80/152029928668345/152091738400445/71198
+#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV 3 HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| SPORT TV 3 HD
+http://carre.flysat.live:80/152029928668345/152091738400445/71197
+#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV 4" tvg-logo="" group-title="PT| PORTUGAL",|PT| SPORT TV 4
+http://carre.flysat.live:80/152029928668345/152091738400445/71196
+#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV 5" tvg-logo="" group-title="PT| PORTUGAL",|PT| SPORT TV 5
+http://carre.flysat.live:80/152029928668345/152091738400445/71195
+#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 1 HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| ELEVEN SPORTS 1 HD
+http://carre.flysat.live:80/152029928668345/152091738400445/71194
+#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 2 HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| ELEVEN SPORTS 2 HD
+http://carre.flysat.live:80/152029928668345/152091738400445/71193
+#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 3 HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| ELEVEN SPORTS 3 HD
+http://carre.flysat.live:80/152029928668345/152091738400445/71192
+#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 4 HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| ELEVEN SPORTS 4 HD
+http://carre.flysat.live:80/152029928668345/152091738400445/71191
+#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 5 HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| ELEVEN SPORTS 5 HD
+http://carre.flysat.live:80/152029928668345/152091738400445/71190
+#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 6 HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| ELEVEN SPORTS 6 HD
+http://carre.flysat.live:80/152029928668345/152091738400445/71189
+#EXTINF:-1 tvg-id="" tvg-name="|PT| BTV 1 HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| BTV 1 HD
+http://carre.flysat.live:80/152029928668345/152091738400445/71188
+#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORTING TV" tvg-logo="" group-title="PT| PORTUGAL",|PT| SPORTING TV
+http://carre.flysat.live:80/152029928668345/152091738400445/71187
+#EXTINF:-1 tvg-id="" tvg-name="|PT| KOMBAT SPORT" tvg-logo="" group-title="PT| PORTUGAL",|PT| KOMBAT SPORT
+http://carre.flysat.live:80/152029928668345/152091738400445/71186
+#EXTINF:-1 tvg-id="" tvg-name="|PT| FUEL TV" tvg-logo="" group-title="PT| PORTUGAL",|PT| FUEL TV
+http://carre.flysat.live:80/152029928668345/152091738400445/71185
+#EXTINF:-1 tvg-id="" tvg-name="|PT| EUROSPORT 1" tvg-logo="" group-title="PT| PORTUGAL",|PT| EUROSPORT 1
+http://carre.flysat.live:80/152029928668345/152091738400445/71184
+#EXTINF:-1 tvg-id="" tvg-name="|PT| EUROSPORT 1 HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| EUROSPORT 1 HD
+http://carre.flysat.live:80/152029928668345/152091738400445/71183
+#EXTINF:-1 tvg-id="" tvg-name="|PT| EUROSPORT 2" tvg-logo="" group-title="PT| PORTUGAL",|PT| EUROSPORT 2
+http://carre.flysat.live:80/152029928668345/152091738400445/71182
+#EXTINF:-1 tvg-id="" tvg-name="|PT| A BOLA TV" tvg-logo="" group-title="PT| PORTUGAL",|PT| A BOLA TV
+http://carre.flysat.live:80/152029928668345/152091738400445/71181
+#EXTINF:-1 tvg-id="" tvg-name="|PT| PFC" tvg-logo="" group-title="PT| PORTUGAL",|PT| PFC
+http://carre.flysat.live:80/152029928668345/152091738400445/71180
+#EXTINF:-1 tvg-id="" tvg-name="|PT| NBA TV" tvg-logo="" group-title="PT| PORTUGAL",|PT| NBA TV
+http://carre.flysat.live:80/152029928668345/152091738400445/71179
+#EXTINF:-1 tvg-id="" tvg-name="|PT| MOTORVISION" tvg-logo="" group-title="PT| PORTUGAL",|PT| MOTORVISION
+http://carre.flysat.live:80/152029928668345/152091738400445/71178
+#EXTINF:-1 tvg-id="" tvg-name="|PT| REAL MADRID TV" tvg-logo="" group-title="PT| PORTUGAL",|PT| REAL MADRID TV
+http://carre.flysat.live:80/152029928668345/152091738400445/71177
+#EXTINF:-1 tvg-id="" tvg-name="##### |PT| AFRICA #####" tvg-logo="" group-title="PT| PORTUGAL",##### |PT| AFRICA #####
+http://carre.flysat.live:80/152029928668345/152091738400445/71176
+#EXTINF:-1 tvg-id="" tvg-name="|PT| ZAP VIVA HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| ZAP VIVA HD
+http://carre.flysat.live:80/152029928668345/152091738400445/71175
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TV ZIMBO" tvg-logo="" group-title="PT| PORTUGAL",|PT| TV ZIMBO
+http://carre.flysat.live:80/152029928668345/152091738400445/71174
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TPA 1" tvg-logo="" group-title="PT| PORTUGAL",|PT| TPA 1
+http://carre.flysat.live:80/152029928668345/152091738400445/71173
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TPA International" tvg-logo="" group-title="PT| PORTUGAL",|PT| TPA International
+http://carre.flysat.live:80/152029928668345/152091738400445/71172
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TVM1" tvg-logo="" group-title="PT| PORTUGAL",|PT| TVM1
+http://carre.flysat.live:80/152029928668345/152091738400445/71171
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TVM2" tvg-logo="" group-title="PT| PORTUGAL",|PT| TVM2
+http://carre.flysat.live:80/152029928668345/152091738400445/71170
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TVMANA MAPUTO" tvg-logo="" group-title="PT| PORTUGAL",|PT| TVMANA MAPUTO
+http://carre.flysat.live:80/152029928668345/152091738400445/71169
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TCV CABO RADIO" tvg-logo="" group-title="PT| PORTUGAL",|PT| TCV CABO RADIO
+http://carre.flysat.live:80/152029928668345/152091738400445/71168
+#EXTINF:-1 tvg-id="" tvg-name="##### |PT| BRASIL #####" tvg-logo="" group-title="PT| PORTUGAL",##### |PT| BRASIL #####
+http://carre.flysat.live:80/152029928668345/152091738400445/71167
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TV RECORD" tvg-logo="" group-title="PT| PORTUGAL",|PT| TV RECORD
+http://carre.flysat.live:80/152029928668345/152091738400445/71166
+#EXTINF:-1 tvg-id="" tvg-name="|PT| GLOBO HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| GLOBO HD
+http://carre.flysat.live:80/152029928668345/152091738400445/71165
+#EXTINF:-1 tvg-id="" tvg-name="|PT| GLOBO PREMIUM" tvg-logo="" group-title="PT| PORTUGAL",|PT| GLOBO PREMIUM
+http://carre.flysat.live:80/152029928668345/152091738400445/71164
+#EXTINF:-1 tvg-id="" tvg-name="##### |PT| RELIGIAO #####" tvg-logo="" group-title="PT| PORTUGAL",##### |PT| RELIGIAO #####
+http://carre.flysat.live:80/152029928668345/152091738400445/71163
+#EXTINF:-1 tvg-id="" tvg-name="|PT| KURIAKOS TV" tvg-logo="" group-title="PT| PORTUGAL",|PT| KURIAKOS TV
+http://carre.flysat.live:80/152029928668345/152091738400445/71162
+#EXTINF:-1 tvg-id="" tvg-name="|PT| CAPELA DE FATIMA" tvg-logo="" group-title="PT| PORTUGAL",|PT| CAPELA DE FATIMA
+http://carre.flysat.live:80/152029928668345/152091738400445/71161
+#EXTINF:-1 tvg-id="" tvg-name="|PT| CANACAO NOVA" tvg-logo="" group-title="PT| PORTUGAL",|PT| CANACAO NOVA
+http://carre.flysat.live:80/152029928668345/152091738400445/71160
+#EXTINF:-1 tvg-id="" tvg-name="##### |PT| CINEMA #####" tvg-logo="" group-title="PT| PORTUGAL",##### |PT| CINEMA #####
+http://carre.flysat.live:80/152029928668345/152091738400445/71159
+#EXTINF:-1 tvg-id="" tvg-name="|PT| FOX HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| FOX HD
+http://carre.flysat.live:80/152029928668345/152091738400445/71158
+#EXTINF:-1 tvg-id="" tvg-name="|PT| FOX COMEDY" tvg-logo="" group-title="PT| PORTUGAL",|PT| FOX COMEDY
+http://carre.flysat.live:80/152029928668345/152091738400445/71157
+#EXTINF:-1 tvg-id="" tvg-name="|PT| FOX CRIME HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| FOX CRIME HD
+http://carre.flysat.live:80/152029928668345/152091738400445/71156
+#EXTINF:-1 tvg-id="" tvg-name="|PT| FOX LIFE HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| FOX LIFE HD
+http://carre.flysat.live:80/152029928668345/152091738400445/71155
+#EXTINF:-1 tvg-id="" tvg-name="|PT| FOX MOVIES" tvg-logo="" group-title="PT| PORTUGAL",|PT| FOX MOVIES
+http://carre.flysat.live:80/152029928668345/152091738400445/71154
+#EXTINF:-1 tvg-id="" tvg-name="|PT| FOX NEWS" tvg-logo="" group-title="PT| PORTUGAL",|PT| FOX NEWS
+http://carre.flysat.live:80/152029928668345/152091738400445/71153
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TVCINE TOP HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| TVCINE TOP HD
+http://carre.flysat.live:80/152029928668345/152091738400445/71152
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TVCINE EDITION HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| TVCINE EDITION HD
+http://carre.flysat.live:80/152029928668345/152091738400445/71151
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TVCINE EMOTION HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| TVCINE EMOTION HD
+http://carre.flysat.live:80/152029928668345/152091738400445/71150
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TVCINE ACTION HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| TVCINE ACTION HD
+http://carre.flysat.live:80/152029928668345/152091738400445/71149
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TVCINE EDITION" tvg-logo="" group-title="PT| PORTUGAL",|PT| TVCINE EDITION
+http://carre.flysat.live:80/152029928668345/152091738400445/71148
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TVCINE ACTION" tvg-logo="" group-title="PT| PORTUGAL",|PT| TVCINE ACTION
+http://carre.flysat.live:80/152029928668345/152091738400445/71147
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TV SERIES" tvg-logo="" group-title="PT| PORTUGAL",|PT| TV SERIES
+http://carre.flysat.live:80/152029928668345/152091738400445/71146
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TV SERIES HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| TV SERIES HD
+http://carre.flysat.live:80/152029928668345/152091738400445/71145
+#EXTINF:-1 tvg-id="" tvg-name="|PT| AXN HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| AXN HD
+http://carre.flysat.live:80/152029928668345/152091738400445/71144
+#EXTINF:-1 tvg-id="" tvg-name="|PT| AXN WHITE HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| AXN WHITE HD
+http://carre.flysat.live:80/152029928668345/152091738400445/71143
+#EXTINF:-1 tvg-id="" tvg-name="|PT| AXN MOVIES HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| AXN MOVIES HD
+http://carre.flysat.live:80/152029928668345/152091738400445/71142
+#EXTINF:-1 tvg-id="" tvg-name="|PT| CINEMUNDO" tvg-logo="" group-title="PT| PORTUGAL",|PT| CINEMUNDO
+http://carre.flysat.live:80/152029928668345/152091738400445/71141
+#EXTINF:-1 tvg-id="" tvg-name="|PT| NOS STUDIOS HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| NOS STUDIOS HD
+http://carre.flysat.live:80/152029928668345/152091738400445/71140
+#EXTINF:-1 tvg-id="" tvg-name="|PT| HOLLYWOOD" tvg-logo="" group-title="PT| PORTUGAL",|PT| HOLLYWOOD
+http://carre.flysat.live:80/152029928668345/152091738400445/71139
+#EXTINF:-1 tvg-id="" tvg-name="|PT| HOLLYWOOD HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| HOLLYWOOD HD
+http://carre.flysat.live:80/152029928668345/152091738400445/71138
+#EXTINF:-1 tvg-id="" tvg-name="|PT| NOS STUDIO HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| NOS STUDIO HD
+http://carre.flysat.live:80/152029928668345/152091738400445/71137
+#EXTINF:-1 tvg-id="" tvg-name="##### |PT| INFANTIL #####" tvg-logo="" group-title="PT| PORTUGAL",##### |PT| INFANTIL #####
+http://carre.flysat.live:80/152029928668345/152091738400445/71136
+#EXTINF:-1 tvg-id="" tvg-name="|PT| NICKELODEON" tvg-logo="" group-title="PT| PORTUGAL",|PT| NICKELODEON
+http://carre.flysat.live:80/152029928668345/152091738400445/71135
+#EXTINF:-1 tvg-id="" tvg-name="|PT| NICK JR." tvg-logo="" group-title="PT| PORTUGAL",|PT| NICK JR.
+http://carre.flysat.live:80/152029928668345/152091738400445/71134
+#EXTINF:-1 tvg-id="" tvg-name="|PT| JIM JAM" tvg-logo="" group-title="PT| PORTUGAL",|PT| JIM JAM
+http://carre.flysat.live:80/152029928668345/152091738400445/71133
+#EXTINF:-1 tvg-id="" tvg-name="|PT| DISNEY JUNIOR" tvg-logo="" group-title="PT| PORTUGAL",|PT| DISNEY JUNIOR
+http://carre.flysat.live:80/152029928668345/152091738400445/71132
+#EXTINF:-1 tvg-id="" tvg-name="|PT| DISNEY CHANNEL" tvg-logo="" group-title="PT| PORTUGAL",|PT| DISNEY CHANNEL
+http://carre.flysat.live:80/152029928668345/152091738400445/71131
+#EXTINF:-1 tvg-id="" tvg-name="|PT| BABY TV" tvg-logo="" group-title="PT| PORTUGAL",|PT| BABY TV
+http://carre.flysat.live:80/152029928668345/152091738400445/71130
+#EXTINF:-1 tvg-id="" tvg-name="|PT| BIGGS" tvg-logo="" group-title="PT| PORTUGAL",|PT| BIGGS
+http://carre.flysat.live:80/152029928668345/152091738400445/71129
+#EXTINF:-1 tvg-id="" tvg-name="|PT| CANAL PANDA" tvg-logo="" group-title="PT| PORTUGAL",|PT| CANAL PANDA
+http://carre.flysat.live:80/152029928668345/152091738400445/71128
+#EXTINF:-1 tvg-id="" tvg-name="|PT| CARTOON NETWORK" tvg-logo="" group-title="PT| PORTUGAL",|PT| CARTOON NETWORK
+http://carre.flysat.live:80/152029928668345/152091738400445/71127
+#EXTINF:-1 tvg-id="" tvg-name="##### |PT| MUSICA #####" tvg-logo="" group-title="PT| PORTUGAL",##### |PT| MUSICA #####
+http://carre.flysat.live:80/152029928668345/152091738400445/71126
+#EXTINF:-1 tvg-id="" tvg-name="|PT| MEZZO" tvg-logo="" group-title="PT| PORTUGAL",|PT| MEZZO
+http://carre.flysat.live:80/152029928668345/152091738400445/71125
+#EXTINF:-1 tvg-id="" tvg-name="|PT| VH1" tvg-logo="" group-title="PT| PORTUGAL",|PT| VH1
+http://carre.flysat.live:80/152029928668345/152091738400445/71124
+#EXTINF:-1 tvg-id="" tvg-name="|PT| VH1 CLASSIC" tvg-logo="" group-title="PT| PORTUGAL",|PT| VH1 CLASSIC
+http://carre.flysat.live:80/152029928668345/152091738400445/71123
+#EXTINF:-1 tvg-id="" tvg-name="|PT| MCM POP" tvg-logo="" group-title="PT| PORTUGAL",|PT| MCM POP
+http://carre.flysat.live:80/152029928668345/152091738400445/71122
+#EXTINF:-1 tvg-id="" tvg-name="|PT| MTV PORTUGAL" tvg-logo="" group-title="PT| PORTUGAL",|PT| MTV PORTUGAL
+http://carre.flysat.live:80/152029928668345/152091738400445/71121
+#EXTINF:-1 tvg-id="" tvg-name="|PT| AFRO MUSIC" tvg-logo="" group-title="PT| PORTUGAL",|PT| AFRO MUSIC
+http://carre.flysat.live:80/152029928668345/152091738400445/71120
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TRACE TOCA" tvg-logo="" group-title="PT| PORTUGAL",|PT| TRACE TOCA
+http://carre.flysat.live:80/152029928668345/152091738400445/71119
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TRACE URBAN" tvg-logo="" group-title="PT| PORTUGAL",|PT| TRACE URBAN
+http://carre.flysat.live:80/152029928668345/152091738400445/71118
+#EXTINF:-1 tvg-id="" tvg-name="##### |PT| CULTURA #####" tvg-logo="" group-title="PT| PORTUGAL",##### |PT| CULTURA #####
+http://carre.flysat.live:80/152029928668345/152091738400445/71117
+#EXTINF:-1 tvg-id="" tvg-name="|PT| E! ENTERTAINMENT" tvg-logo="" group-title="PT| PORTUGAL",|PT| E! ENTERTAINMENT
+http://carre.flysat.live:80/152029928668345/152091738400445/71116
+#EXTINF:-1 tvg-id="" tvg-name="|PT| DISCOVERY CHANNEL" tvg-logo="" group-title="PT| PORTUGAL",|PT| DISCOVERY CHANNEL
+http://carre.flysat.live:80/152029928668345/152091738400445/71115
+#EXTINF:-1 tvg-id="" tvg-name="|PT| DISCOVERY HD SHOWCASE" tvg-logo="" group-title="PT| PORTUGAL",|PT| DISCOVERY HD SHOWCASE
+http://carre.flysat.live:80/152029928668345/152091738400445/71114
+#EXTINF:-1 tvg-id="" tvg-name="|PT| NAT GEO GEOGRAPHIC HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| NAT GEO GEOGRAPHIC HD
+http://carre.flysat.live:80/152029928668345/152091738400445/71113
+#EXTINF:-1 tvg-id="" tvg-name="|PT| NAT GEO WILD" tvg-logo="" group-title="PT| PORTUGAL",|PT| NAT GEO WILD
+http://carre.flysat.live:80/152029928668345/152091738400445/71112
+#EXTINF:-1 tvg-id="" tvg-name="|PT| CRIME INVESTIGATION" tvg-logo="" group-title="PT| PORTUGAL",|PT| CRIME INVESTIGATION
+http://carre.flysat.live:80/152029928668345/152091738400445/71111
+#EXTINF:-1 tvg-id="" tvg-name="|PT| ODISSEIA" tvg-logo="" group-title="PT| PORTUGAL",|PT| ODISSEIA
+http://carre.flysat.live:80/152029928668345/152091738400445/71110
+#EXTINF:-1 tvg-id="" tvg-name="|PT| HISTORIA" tvg-logo="" group-title="PT| PORTUGAL",|PT| HISTORIA
+http://carre.flysat.live:80/152029928668345/152091738400445/71109
+#EXTINF:-1 tvg-id="" tvg-name="##### |PT| INTRETINIMENTO #####" tvg-logo="" group-title="PT| PORTUGAL",##### |PT| INTRETINIMENTO #####
+http://carre.flysat.live:80/152029928668345/152091738400445/71108
+#EXTINF:-1 tvg-id="" tvg-name="|PT| CBS REALITY" tvg-logo="" group-title="PT| PORTUGAL",|PT| CBS REALITY
+http://carre.flysat.live:80/152029928668345/152091738400445/71107
+#EXTINF:-1 tvg-id="" tvg-name="|PT| BLOOMBERG" tvg-logo="" group-title="PT| PORTUGAL",|PT| BLOOMBERG
+http://carre.flysat.live:80/152029928668345/152091738400445/71106
+#EXTINF:-1 tvg-id="" tvg-name="|PT| 24 KITCHEN HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| 24 KITCHEN HD
+http://carre.flysat.live:80/152029928668345/152091738400445/71105
+#EXTINF:-1 tvg-id="" tvg-name="|PT| AMC" tvg-logo="" group-title="PT| PORTUGAL",|PT| AMC
+http://carre.flysat.live:80/152029928668345/152091738400445/71104
+#EXTINF:-1 tvg-id="" tvg-name="|PT| AMC HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| AMC HD
+http://carre.flysat.live:80/152029928668345/152091738400445/71103
+#EXTINF:-1 tvg-id="" tvg-name="|PT| SIC CARAS" tvg-logo="" group-title="PT| PORTUGAL",|PT| SIC CARAS
+http://carre.flysat.live:80/152029928668345/152091738400445/71102
+#EXTINF:-1 tvg-id="" tvg-name="|PT| SIC K" tvg-logo="" group-title="PT| PORTUGAL",|PT| SIC K
+http://carre.flysat.live:80/152029928668345/152091738400445/71101
+#EXTINF:-1 tvg-id="" tvg-name="|PT| SIC MULHER" tvg-logo="" group-title="PT| PORTUGAL",|PT| SIC MULHER
+http://carre.flysat.live:80/152029928668345/152091738400445/71100
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TRAVEL CHANNEL HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| TRAVEL CHANNEL HD
+http://carre.flysat.live:80/152029928668345/152091738400445/71099
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TLC" tvg-logo="" group-title="PT| PORTUGAL",|PT| TLC
+http://carre.flysat.live:80/152029928668345/152091738400445/71098
+#EXTINF:-1 tvg-id="" tvg-name="|PT| SYFY" tvg-logo="" group-title="PT| PORTUGAL",|PT| SYFY
+http://carre.flysat.live:80/152029928668345/152091738400445/71097
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TV GALICIA" tvg-logo="" group-title="PT| PORTUGAL",|PT| TV GALICIA
+http://carre.flysat.live:80/152029928668345/152091738400445/71096
+#EXTINF:-1 tvg-id="" tvg-name="|PT| CNN" tvg-logo="" group-title="PT| PORTUGAL",|PT| CNN
+http://carre.flysat.live:80/152029928668345/152091738400445/71095
+#EXTINF:-1 tvg-id="" tvg-name="|PT| SKY NEWS" tvg-logo="" group-title="PT| PORTUGAL",|PT| SKY NEWS
+http://carre.flysat.live:80/152029928668345/152091738400445/71094
+#EXTINF:-1 tvg-id="" tvg-name="|PT| SIC RADICAL" tvg-logo="" group-title="PT| PORTUGAL",|PT| SIC RADICAL
+http://carre.flysat.live:80/152029928668345/152091738400445/71093
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TVE 24H" tvg-logo="" group-title="PT| PORTUGAL",|PT| TVE 24H
+http://carre.flysat.live:80/152029928668345/152091738400445/71092
+#EXTINF:-1 tvg-id="" tvg-name="|PT| CANAL Q" tvg-logo="" group-title="PT| PORTUGAL",|PT| CANAL Q
+http://carre.flysat.live:80/152029928668345/152091738400445/71091
+#EXTINF:-1 tvg-id="" tvg-name="|PT| CNBC" tvg-logo="" group-title="PT| PORTUGAL",|PT| CNBC
+http://carre.flysat.live:80/152029928668345/152091738400445/71090
+#EXTINF:-1 tvg-id="" tvg-name="|PT| EURONEWS" tvg-logo="" group-title="PT| PORTUGAL",|PT| EURONEWS
+http://carre.flysat.live:80/152029928668345/152091738400445/71089
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TV5 MONDE" tvg-logo="" group-title="PT| PORTUGAL",|PT| TV5 MONDE
+http://carre.flysat.live:80/152029928668345/152091738400445/71088
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TOROS TV" tvg-logo="" group-title="PT| PORTUGAL",|PT| TOROS TV
+http://carre.flysat.live:80/152029928668345/152091738400445/71087
+#EXTINF:-1 tvg-id="" tvg-name="|PT| BBC WORLD NEWS" tvg-logo="" group-title="PT| PORTUGAL",|PT| BBC WORLD NEWS
+http://carre.flysat.live:80/152029928668345/152091738400445/71086
+#EXTINF:-1 tvg-id="" tvg-name="|PT| FTV" tvg-logo="" group-title="PT| PORTUGAL",|PT| FTV
+http://carre.flysat.live:80/152029928668345/152091738400445/71085
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TV RECORD NEWS HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| TV RECORD NEWS HD
+http://carre.flysat.live:80/152029928668345/152091738400445/71084
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TV GLOBO" tvg-logo="" group-title="PT| PORTUGAL",|PT| TV GLOBO
+http://carre.flysat.live:80/152029928668345/152091738400445/71083
+#EXTINF:-1 tvg-id="" tvg-name="|PT| BOOMERANG HD" tvg-logo="" group-title="PT| PORTUGAL",|PT| BOOMERANG HD
+http://carre.flysat.live:80/152029928668345/152091738400445/71082
+#EXTINF:-1 tvg-id="" tvg-name="|PT| SIC" tvg-logo="" group-title="PT| PORTUGAL",|PT| SIC
+http://carre.flysat.live:80/152029928668345/152091738400445/71081
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TVI" tvg-logo="" group-title="PT| PORTUGAL",|PT| TVI
+http://carre.flysat.live:80/152029928668345/152091738400445/71080
