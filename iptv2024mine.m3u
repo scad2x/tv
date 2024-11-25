@@ -1,378 +1,240 @@
-# 📺 IPTV 2024
-
-#EXTINF:-1 tvg-name="" tvg-id="sicnhd.tv.vodafone.pt" group-title="Portugal" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b7/SICNoticias2011.png",SIC Noticias ᴴᴰ 🇵🇹 (Geo blocked)
-https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNi8yMDI0IDg6Njo0IEFNJmhhc2hfdmFsdWU9Smw0azNaek5HemdvV1lSTjYzMHczZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWExYTQ0MDhiLTE5MjAtNDFmMC04MTczLTcxNDdlNGZlMTMxOA==/
-
-#EXTINF:-1 group-title="TV" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews PT
-https://0ff3c09c7580460e8e018cdcaacbadee.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pt_EuroNewsLive/de58ab88-b103-4df8-b87a-71190e6f9482/5.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="PortoCanal.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Porto-Canal.png",Porto Canal
-https://live-c.cf.dmcdn.net/sec2(OMsRcb3imkrLWlWI_KnGliPMM7_8Xy_XK1mbZrQLyi9-sucuL2mgWk8l6ritAtpSTylZaxC0XEuqmwvcIZT7lNGDCfNUCDbFz6wS_xW2lL0)/dm/3/x8egnb8/s/live-2.m3u8
-
-# Praias Norte
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Vila Praia de Âncora
-https://video-auth1.iol.pt/beachcam/bcvilapraiadeancora/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Esposende
-https://video-auth1.iol.pt/beachcam/bcesposende/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Ofir
-https://video-auth1.iol.pt/beachcam/bcofir/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Leça da Palmeira
-https://video-auth1.iol.pt/beachcam/lecadapalmeira/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Matosinhos
-https://video-auth1.iol.pt/beachcam/matosinhos/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Porto - Homem do Leme
-https://video-auth1.iol.pt/beachcam/bchomemdoleme/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Porto - Carneiro
-https://video-auth1.iol.pt/beachcam/bccarneiro/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia Canide Norte - Sul
-https://video-auth1.iol.pt/beachcam/bccanidelo/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Espinho
-https://video-auth1.iol.pt/beachcam/espinho/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Esmoriz
-https://video-auth1.iol.pt/beachcam/esmoriz/playlist.m3u8
-
-
-# Praias Centro
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Furadouro
-https://video-auth1.iol.pt/beachcam/furadouro/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Torreira
-https://video-auth1.iol.pt/beachcam/torreira/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Barra
-https://video-auth1.iol.pt/beachcam/aveiro/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Costa Nova
-https://video-auth1.iol.pt/beachcam/costanova/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia de Mira
-https://video-auth1.iol.pt/beachcam/bcmira/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Tocha
-https://video-auth1.iol.pt/beachcam/tocha/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Murtinheira
-https://video-auth1.iol.pt/beachcam/bcmurtinheira/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Figueira da Foz
-https://video-auth1.iol.pt/beachcam/figueiradafoz/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Figueira da Foz - Buarcos
-https://video-auth1.iol.pt/beachcam/bcfigueiradois/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Figueira da Foz - Cabedelo
-https://video-auth1.iol.pt/beachcam/cabedelo/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia Osso da Baleia
-https://video-auth1.iol.pt/beachcam/ossodabaleia/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia do Pedrógão
-https://video-auth1.iol.pt/beachcam/praiapedrogao/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Vieira
-https://video-auth1.iol.pt/beachcam/bcvieira/playlist.m3u8
-
-
-# Praias Costa Oeste
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",São Pedro de Moel
-https://video-auth1.iol.pt/beachcam/bcsaopedromoel/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Nazaré - Forte S. Miguel Arcanjo
-https://video-auth1.iol.pt/beachcam/bcarcanjo3/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Nazaré - Forte S. Miguel Arcanjo Panorâmica
-https://video-auth1.iol.pt/beachcam/bcarcanjo2/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Nazaré - Forte S. Miguel Arcanjo - Baía
-https://video-auth1.iol.pt/beachcam/bcarcanjo1/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Nazaré - Praia do Norte
-https://video-auth1.iol.pt/beachcam/canhaonazare/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Nazaré - Praia do Norte panorâmica
-https://video-auth1.iol.pt/beachcam/nazareparadonorte/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Nazaré - Praia da Vila
-https://video-auth1.iol.pt/beachcam/nazarepraiadavila/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Nazaré - Porto de Abrigo
-https://video-auth1.iol.pt/beachcam/bcportodeabrigo/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Foz do Arelho
-https://video-auth1.iol.pt/beachcam/bcfozdoarelho/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Peniche - Lagide
-https://video-auth1.iol.pt/beachcam/lagide/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Peniche - Supertubos
-https://video-auth1.iol.pt/beachcam/supertubos/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Areia Branca
-https://video-auth1.iol.pt/beachcam/bcareiabranca/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia de Santa Rita
-https://video-auth1.iol.pt/beachcam/vimeiro/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Santa Cruz
-https://video-auth1.iol.pt/beachcam/santacruz/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Santa Cruz - Praia Azul
-https://video-auth1.iol.pt/beachcam/bcpraiaazul/playlist.m3u8
-
-
-# Praias Mafra
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Calada
-https://video-auth1.iol.pt/beachcam/praiadacalada/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",São Lourenço
-https://video-auth1.iol.pt/beachcam/saolourenco/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Ribeira D'Ilhas
-https://video-auth1.iol.pt/beachcam/ribeiradilhas/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Ericeira
-https://video-auth1.iol.pt/beachcam/ericeiraspots/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Matadouro + SkatePark
-https://video-auth1.iol.pt/beachcam/matadouroskatepark/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia dos Pescadores
-https://video-auth1.iol.pt/beachcam/bcpescadores/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Ericeira - Praia do Sul
-https://video-auth1.iol.pt/beachcam/praiadosulericeira/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Foz do Lizandro
-https://video-auth1.iol.pt/beachcam/fozdolizandro/playlist.m3u8
-
-
-# Praias de Sintra
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia das Maçãs
-https://video-auth1.iol.pt/beachcam/praiadasmacas/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia Pequena
-https://video-auth1.iol.pt/beachcam/bcpraiapequena/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia Grande - Norte
-https://video-auth1.iol.pt/beachcam/praiagrande/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia Grande - Sul
-https://video-auth1.iol.pt/beachcam/praiagrande2/playlist.m3u8
-
-
-# Praias Cascais
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia do Guincho - Norte
-https://video-auth1.iol.pt/beachcam/praiaguinchonorte/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia do Guincho - Sul
-https://video-auth1.iol.pt/beachcam/praiaguinchosul/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Cresmina
-https://video-auth1.iol.pt/beachcam/crismina/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia do Guincho - Sul
-https://video-auth1.iol.pt/beachcam/praiaguinchosul/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Baía de Cascais
-https://video-auth1.iol.pt/beachcam/praiadospescadores/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Conceição e Duquesa
-https://video-auth1.iol.pt/beachcam/conceicao/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia das Moitas
-https://video-auth1.iol.pt/beachcam/moitas/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Tamariz
-https://video-auth1.iol.pt/beachcam/tamariz/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",São João do Estoril
-https://video-auth1.iol.pt/beachcam/saojoaodoestoril/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",São Pedro do Estoril
-http://video-auth1.iol.pt:1935/beachcam/saopedroestoria/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia das Avencas
-https://video-auth1.iol.pt/beachcam/praiadasavencas/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Parede
-https://video-auth1.iol.pt/beachcam/parede/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Carcavelos
-https://video-auth1.iol.pt/beachcam/carcavelos/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Carcavelos - Calhau
-https://video-auth1.iol.pt/beachcam/carcavelos2/playlist.m3u8
-
-
-# Praias Oeiras
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Torre
-https://video-auth1.iol.pt/beachcam/bctorre/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Santo Amaro
-https://video-auth1.iol.pt/beachcam/santoamaro/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Paço de Arcos
-https://video-auth1.iol.pt/beachcam/parcos/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Caxias
-https://video-auth1.iol.pt/beachcam/caxias/playlist.m3u8
-
-
-# Praias Almada
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Costa de Caparica - S. João
-https://video-auth1.iol.pt/beachcam/costacaparicasaojoao/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Costa de Caparica - CDS Norte
-https://video-auth1.iol.pt/beachcam/costacaparicacds/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Costa de Caparica - CDS Sul
-https://video-auth1.iol.pt/beachcam/costacaparicabernard/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Costa de Caparica - Praia Nova
-https://video-auth1.iol.pt/beachcam/bccaparicanovapraia/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Costa de Caparica - Riviera
-https://video-auth1.iol.pt/beachcam/riviera/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Costa de Caparica - Cabana do Pescador
-https://video-auth1.iol.pt/beachcam/bccabanadopescador/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Fonte da Telha
-https://video-auth1.iol.pt/beachcam/fontedatelha/playlist.m3u8
-
-
-# Praias Sesimbra
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Lagoa de Albufeira
-https://video-auth1.iol.pt/beachcam/bclagoaalbufeira/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia do Meco
-https://video-auth1.iol.pt/beachcam/bcmeco/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia das Bicas
-https://video-auth1.iol.pt/beachcam/bcpraiadasbicas/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia Sesimbra
-https://video-auth1.iol.pt/beachcam/sesimbra/playlist.m3u8
-
-
-# Praias Setúbal
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Portinho da Arrábida
-https://video-auth1.iol.pt/beachcam/bcportinho/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Albarquel
-https://video-auth1.iol.pt/beachcam/bcalbarquel/playlist.m3u8
-
-
-# Praias Alentejo
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Troia
-https://video-auth1.iol.pt/beachcam/bctroia/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Comporta
-https://video-auth1.iol.pt/beachcam/bccomporta/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia do Carvalhal
-https://video-auth1.iol.pt/beachcam/carvalhal/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Lagoa de Santo André
-https://video-auth1.iol.pt/beachcam/bcsantoandre/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",S. Torpes
-https://video-auth1.iol.pt/beachcam/saotorpes/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Vila Nova de Milfontes - Franquia
-https://video-auth1.iol.pt/beachcam/bcfranquia/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Vila Nova de Milfontes - Farol
-https://video-auth1.iol.pt/beachcam/bcfarol/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Vila Nova de Milfontes - Furnas Mar
-https://video-auth1.iol.pt/beachcam/furnasmar/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Almograve
-https://video-auth1.iol.pt/beachcam/bcalmograve/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Zambujeira do Mar
-https://video-auth1.iol.pt/beachcam/zambujeira/playlist.m3u8
-
-
-# Praias Algarve
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Odeceixe
-https://video-auth1.iol.pt/beachcam/bcodeceixe/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Monte Clérigo
-https://video-auth1.iol.pt/beachcam/bcmonteclerigo/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Arrifana
-https://video-auth1.iol.pt/beachcam/arrifana/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia do Amado
-https://video-auth1.iol.pt/beachcam/bcamado/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Luz
-https://video-auth1.iol.pt/beachcam/luz/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Meia Praia
-https://video-auth1.iol.pt/beachcam/meiapraia/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Alvor
-https://video-auth1.iol.pt/beachcam/alvor/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Alvor Nascente
-https://video-auth1.iol.pt/beachcam/bcalvornascente/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Rocha
-https://video-auth1.iol.pt/beachcam/praiadarocha/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Ferragudo - Praia Grande
-https://video-auth1.iol.pt/beachcam/ferragudo/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Carvoeiro
-https://video-auth1.iol.pt/beachcam/carvoeiro/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Senhora da Rocha e Praia Nova
-https://video-auth1.iol.pt/beachcam/bcigreja/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Armação de Pêra
-https://video-auth1.iol.pt/beachcam/armacaodepera/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Galé
-https://video-auth1.iol.pt/beachcam/bcgale/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia do Peneco
-https://video-auth1.iol.pt/beachcam/praiadopeneco/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Vilamoura
-https://video-auth1.iol.pt/beachcam/vilamoura/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Faro
-https://video-auth1.iol.pt/beachcam/bcfaro/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Alagoa - Altura
-https://video-auth1.iol.pt/beachcam/bcalagoa/playlist.m3u8
-
-#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia Verde - Castro Marim
-https://video-auth1.iol.pt/beachcam/bcpraiaverde/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: ✦●✦GERAL✦●✦" tvg-logo="https://docdog.top/logo/countries/portugal/countrypic.png" group-title="PT | PORTUGAL",PT: ✦●✦GERAL✦●✦
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/56047
+#EXTINF:-1 tvg-id="" tvg-name="PT: ARTV" tvg-logo="https://docdog.top/logo/countries/portugal/artv.png" group-title="PT | PORTUGAL",PT: ARTV
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/24990
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL 11" tvg-logo="https://docdog.top/logo/countries/portugal/canal11.png" group-title="PT | PORTUGAL",PT: CANAL 11
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25004
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANCAO NOVA" tvg-logo="https://docdog.top/logo/countries/portugal/cancaonova.png" group-title="PT | PORTUGAL",PT: CANCAO NOVA
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25007
+#EXTINF:-1 tvg-id="" tvg-name="PT: CMTV" tvg-logo="https://docdog.top/logo/countries/portugal/cmtv.png" group-title="PT | PORTUGAL",PT: CMTV
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25017
+#EXTINF:-1 tvg-id="" tvg-name="PT: PORTO CANAL" tvg-logo="https://docdog.top/logo/countries/portugal/portocanal.png" group-title="PT | PORTUGAL",PT: PORTO CANAL
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25062
+#EXTINF:-1 tvg-id="" tvg-name="PT: RECORD TV" tvg-logo="https://docdog.top/logo/countries/portugal/recordtv.png" group-title="PT | PORTUGAL",PT: RECORD TV
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25063
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1" tvg-logo="https://docdog.top/logo/countries/portugal/rtp1.png" group-title="PT | PORTUGAL",PT: RTP 1
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25064
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 2" tvg-logo="https://docdog.top/logo/countries/portugal/rtp2.png" group-title="PT | PORTUGAL",PT: RTP 2
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25065
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 3" tvg-logo="https://docdog.top/logo/countries/portugal/rtp3.png" group-title="PT | PORTUGAL",PT: RTP 3
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25066
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP ACORESS" tvg-logo="https://docdog.top/logo/countries/portugal/rtpacores.png" group-title="PT | PORTUGAL",PT: RTP ACORESS
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25067
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP AFRICA" tvg-logo="https://docdog.top/logo/countries/portugal/rtpafrica.png" group-title="PT | PORTUGAL",PT: RTP AFRICA
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25068
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP MADEIRA" tvg-logo="https://docdog.top/logo/countries/portugal/rtpmadeira.png" group-title="PT | PORTUGAL",PT: RTP MADEIRA
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25069
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP MEMORIA" tvg-logo="https://docdog.top/logo/countries/portugal/rtpmemoria.png" group-title="PT | PORTUGAL",PT: RTP MEMORIA
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25070
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC" tvg-logo="https://docdog.top/logo/countries/portugal/sic.png" group-title="PT | PORTUGAL",PT: SIC
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25073
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI" tvg-logo="https://docdog.top/logo/countries/portugal/tvi.png" group-title="PT | PORTUGAL",PT: TVI
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25085
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI 24" tvg-logo="https://docdog.top/logo/countries/portugal/tvi24.png" group-title="PT | PORTUGAL",PT: TVI 24
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25086
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI FICCAO" tvg-logo="https://docdog.top/logo/countries/portugal/tvificcao.png" group-title="PT | PORTUGAL",PT: TVI FICCAO
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25087
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY" tvg-logo="https://docdog.top/logo/countries/portugal/tvireality.png" group-title="PT | PORTUGAL",PT: TVI REALITY
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25088
+#EXTINF:-1 tvg-id="" tvg-name="PT: ✦●✦ESPORTES✦●✦" tvg-logo="https://docdog.top/logo/countries/portugal/countrypic.png" group-title="PT | PORTUGAL",PT: ✦●✦ESPORTES✦●✦
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/56048
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV +" tvg-logo="https://docdog.top/logo/countries/portugal/sport-tv-mais-pt.png" group-title="PT | PORTUGAL",PT: SPORT TV +
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/29668
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv1.png" group-title="PT | PORTUGAL",PT: SPORT TV 1
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/24984
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv2.png" group-title="PT | PORTUGAL",PT: SPORT TV 2
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/24982
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv3.png" group-title="PT | PORTUGAL",PT: SPORT TV 3
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/24980
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv4.png" group-title="PT | PORTUGAL",PT: SPORT TV 4
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/24979
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv5.png" group-title="PT | PORTUGAL",PT: SPORT TV 5
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/24978
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 6" tvg-logo="https://docdog.top/logo/countries/portugal/Sport_tv_6.png" group-title="PT | PORTUGAL",PT: SPORT TV 6
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/29669
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 1" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport1.png" group-title="PT | PORTUGAL",PT: ELEVEN SPORT 1
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25024
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 2" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport2.png" group-title="PT | PORTUGAL",PT: ELEVEN SPORT 2
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25025
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 3" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport3.png" group-title="PT | PORTUGAL",PT: ELEVEN SPORT 3
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25026
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 4" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport4.png" group-title="PT | PORTUGAL",PT: ELEVEN SPORT 4
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25027
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 5" tvg-logo="https://docdog.top/logo/countries/portugal/Eleven_Sports_5.png" group-title="PT | PORTUGAL",PT: ELEVEN SPORT 5
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25028
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 6" tvg-logo="https://docdog.top/logo/countries/portugal/elevensports6vip.png" group-title="PT | PORTUGAL",PT: ELEVEN SPORT 6
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/24983
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA" tvg-logo="https://docdog.top/logo/countries/portugal/sporttvnba.png" group-title="PT | PORTUGAL",PT: SPORT TV NBA
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/24981
+#EXTINF:-1 tvg-id="" tvg-name="PT: A BOLA TV" tvg-logo="https://docdog.top/logo/countries/portugal/abolatv.png" group-title="PT | PORTUGAL",PT: A BOLA TV
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/24987
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV" tvg-logo="https://docdog.top/logo/countries/portugal/btv.png" group-title="PT | PORTUGAL",PT: BTV
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25000
+#EXTINF:-1 tvg-id="" tvg-name="PT: FUEL TV" tvg-logo="https://docdog.top/logo/countries/portugal/fueltv.png" group-title="PT | PORTUGAL",PT: FUEL TV
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25036
+#EXTINF:-1 tvg-id="" tvg-name="PT: KOMBAT SPORT" tvg-logo="https://docdog.top/logo/countries/portugal/kombatsport.png" group-title="PT | PORTUGAL",PT: KOMBAT SPORT
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25044
+#EXTINF:-1 tvg-id="" tvg-name="PT: MOTORVISION" tvg-logo="https://docdog.top/logo/countries/portugal/motorvision.png" group-title="PT | PORTUGAL",PT: MOTORVISION
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25048
+#EXTINF:-1 tvg-id="" tvg-name="PT: NOS STUDIO" tvg-logo="https://docdog.top/logo/countries/portugal/nosstudios.png" group-title="PT | PORTUGAL",PT: NOS STUDIO
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25057
+#EXTINF:-1 tvg-id="" tvg-name="PT: NBA TV" tvg-logo="https://docdog.top/logo/countries/portugal/nba.png" group-title="PT | PORTUGAL",PT: NBA TV
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/51361
+#EXTINF:-1 tvg-id="" tvg-name="PT: ✦●✦NOTÍCIAS✦●✦" tvg-logo="https://docdog.top/logo/countries/portugal/countrypic.png" group-title="PT | PORTUGAL",PT: ✦●✦NOTÍCIAS✦●✦
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/56054
+#EXTINF:-1 tvg-id="" tvg-name="PT: BBC WORLD NEWS" tvg-logo="https://docdog.top/logo/countries/portugal/bbcworldnews.png" group-title="PT | PORTUGAL",PT: BBC WORLD NEWS
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/24996
+#EXTINF:-1 tvg-id="" tvg-name="PT: EURO CHANNEL" tvg-logo="https://docdog.top/logo/countries/portugal/eurochannel.png" group-title="PT | PORTUGAL",PT: EURO CHANNEL
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25029
+#EXTINF:-1 tvg-id="" tvg-name="PT: EURO NEWS" tvg-logo="https://docdog.top/logo/countries/portugal/euronews.png" group-title="PT | PORTUGAL",PT: EURO NEWS
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25030
+#EXTINF:-1 tvg-id="" tvg-name="PT: GLOBO" tvg-logo="https://docdog.top/logo/countries/portugal/globo.png" group-title="PT | PORTUGAL",PT: GLOBO
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25038
+#EXTINF:-1 tvg-id="" tvg-name="PT: GLOBO NOW" tvg-logo="https://docdog.top/logo/countries/portugal/globonow.png" group-title="PT | PORTUGAL",PT: GLOBO NOW
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25039
+#EXTINF:-1 tvg-id="" tvg-name="PT: SKY NEWS" tvg-logo="https://docdog.top/logo/countries/portugal/skynews.png" group-title="PT | PORTUGAL",PT: SKY NEWS
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/49556
+#EXTINF:-1 tvg-id="" tvg-name="PT: ✦●✦FILME AND SERIES✦●✦" tvg-logo="https://docdog.top/logo/countries/portugal/countrypic.png" group-title="PT | PORTUGAL",PT: ✦●✦FILME AND SERIES✦●✦
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/56049
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN" tvg-logo="https://docdog.top/logo/countries/portugal/axn.png" group-title="PT | PORTUGAL",PT: AXN
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/24991
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN BLACK" tvg-logo="https://docdog.top/logo/countries/portugal/axnblack.png" group-title="PT | PORTUGAL",PT: AXN BLACK
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/24992
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN MOVIES" tvg-logo="https://docdog.top/logo/countries/portugal/axnmovies.png" group-title="PT | PORTUGAL",PT: AXN MOVIES
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/24993
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN WHITE" tvg-logo="https://docdog.top/logo/countries/portugal/axnwhite.png" group-title="PT | PORTUGAL",PT: AXN WHITE
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/24994
+#EXTINF:-1 tvg-id="" tvg-name="PT: CALVISION" tvg-logo="https://docdog.top/logo/countries/portugal//calvision.png" group-title="PT | PORTUGAL",PT: CALVISION
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25003
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE ACTION" tvg-logo="https://docdog.top/logo/countries/portugal/TVCine-ACTION.png" group-title="PT | PORTUGAL",PT: TVCINE ACTION
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25009
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE TOP" tvg-logo="https://docdog.top/logo/countries/portugal/TVCine-TOP.png" group-title="PT | PORTUGAL",PT: TVCINE TOP
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25012
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE EDITION" tvg-logo="https://docdog.top/logo/countries/portugal/TVCine-EDITION.png" group-title="PT | PORTUGAL",PT: TVCINE EDITION
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25013
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE EMOTION" tvg-logo="https://docdog.top/logo/countries/portugal/TVCine-Emotion.png" group-title="PT | PORTUGAL",PT: TVCINE EMOTION
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25014
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMUNDO" tvg-logo="https://docdog.top/logo/countries/portugal/cinemundo.png" group-title="PT | PORTUGAL",PT: CINEMUNDO
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25016
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX" tvg-logo="https://docdog.top/logo/countries/portugal/fox.png" group-title="PT | PORTUGAL",PT: FOX
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25031
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX COMEDY" tvg-logo="https://docdog.top/logo/countries/portugal/foxcomedy.png" group-title="PT | PORTUGAL",PT: FOX COMEDY
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25032
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX CRIME" tvg-logo="https://docdog.top/logo/countries/portugal/foxcrime.png" group-title="PT | PORTUGAL",PT: FOX CRIME
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25033
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX LIFE" tvg-logo="https://docdog.top/logo/countries/portugal/foxlife.png" group-title="PT | PORTUGAL",PT: FOX LIFE
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25034
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX MOVIES" tvg-logo="https://docdog.top/logo/countries/portugal/foxmovies.png" group-title="PT | PORTUGAL",PT: FOX MOVIES
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25035
+#EXTINF:-1 tvg-id="" tvg-name="PT: HOLLYWOOD" tvg-logo="https://docdog.top/logo/countries/portugal/hollywood.png" group-title="PT | PORTUGAL",PT: HOLLYWOOD
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25041
+#EXTINF:-1 tvg-id="" tvg-name="PT: SERIES TV" tvg-logo="https://docdog.top/logo/countries/portugal/series.png" group-title="PT | PORTUGAL",PT: SERIES TV
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25072
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY CAMARA 1" tvg-logo="https://docdog.top/logo/countries/portugal/tvi_reality.png" group-title="PT | PORTUGAL",PT: TVI REALITY CAMARA 1
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/51362
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY CAMARA 2" tvg-logo="https://docdog.top/logo/countries/portugal/tvi_reality.png" group-title="PT | PORTUGAL",PT: TVI REALITY CAMARA 2
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/51363
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY CAMARA 3" tvg-logo="https://docdog.top/logo/countries/portugal/tvi_reality.png" group-title="PT | PORTUGAL",PT: TVI REALITY CAMARA 3
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/51364
+#EXTINF:-1 tvg-id="" tvg-name="PT: ✦●✦ENTRETENIMENTO✦●✦" tvg-logo="https://docdog.top/logo/countries/portugal/countrypic.png" group-title="PT | PORTUGAL",PT: ✦●✦ENTRETENIMENTO✦●✦
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/56053
+#EXTINF:-1 tvg-id="" tvg-name="PT: 24 KITCHEN" tvg-logo="https://docdog.top/logo/countries/portugal/24kitchen.png" group-title="PT | PORTUGAL",PT: 24 KITCHEN
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/24986
+#EXTINF:-1 tvg-id="" tvg-name="PT: AMC" tvg-logo="https://docdog.top/logo/countries/portugal/amc.png" group-title="PT | PORTUGAL",PT: AMC
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/24989
+#EXTINF:-1 tvg-id="" tvg-name="PT: BLAZE" tvg-logo="https://docdog.top/logo/countries/portugal/blaze.png" group-title="PT | PORTUGAL",PT: BLAZE
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/24999
+#EXTINF:-1 tvg-id="" tvg-name="PT: CACA E PESCA" tvg-logo="https://docdog.top/logo/countries/portugal/cacaepesca.png" group-title="PT | PORTUGAL",PT: CACA E PESCA
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25001
+#EXTINF:-1 tvg-id="" tvg-name="PT: CACA VISION" tvg-logo="https://docdog.top/logo/countries/portugal/cacavision.png" group-title="PT | PORTUGAL",PT: CACA VISION
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25002
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL Q" tvg-logo="https://docdog.top/logo/countries/portugal//canalq.png" group-title="PT | PORTUGAL",PT: CANAL Q
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25006
+#EXTINF:-1 tvg-id="" tvg-name="PT: CBS REALITY" tvg-logo="https://docdog.top/logo/countries/portugal/cbsreality.png" group-title="PT | PORTUGAL",PT: CBS REALITY
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25008
+#EXTINF:-1 tvg-id="" tvg-name="PT: E! ENTERTAINMENT" tvg-logo="https://docdog.top/logo/countries/portugal/entertainment.png" group-title="PT | PORTUGAL",PT: E! ENTERTAINMENT
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25023
+#EXTINF:-1 tvg-id="" tvg-name="PT: KURIAKOS TV" tvg-logo="https://docdog.top/logo/countries/portugal/kuriakostv.png" group-title="PT | PORTUGAL",PT: KURIAKOS TV
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25045
+#EXTINF:-1 tvg-id="" tvg-name="PT: MY CUISINE" tvg-logo="https://docdog.top/logo/countries/portugal//mycuisine.jpg" group-title="PT | PORTUGAL",PT: MY CUISINE
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25050
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC CARAS" tvg-logo="https://docdog.top/logo/countries/portugal/siccaras.png" group-title="PT | PORTUGAL",PT: SIC CARAS
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25074
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC K" tvg-logo="https://docdog.top/logo/countries/portugal/sick.png" group-title="PT | PORTUGAL",PT: SIC K
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25075
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC MULHER" tvg-logo="https://docdog.top/logo/countries/portugal/sicmulher.png" group-title="PT | PORTUGAL",PT: SIC MULHER
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25077
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC NOTICIAS" tvg-logo="https://docdog.top/logo/countries/portugal/sicnoticias.png" group-title="PT | PORTUGAL",PT: SIC NOTICIAS
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25078
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC RADICAL" tvg-logo="https://docdog.top/logo/countries/portugal/sicradical.png" group-title="PT | PORTUGAL",PT: SIC RADICAL
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25079
+#EXTINF:-1 tvg-id="" tvg-name="PT: SYFY" tvg-logo="https://docdog.top/logo/countries/portugal/syfy.png" group-title="PT | PORTUGAL",PT: SYFY
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25080
+#EXTINF:-1 tvg-id="" tvg-name="PT: TLC" tvg-logo="https://docdog.top/logo/countries/portugal/tlc.png" group-title="PT | PORTUGAL",PT: TLC
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25081
+#EXTINF:-1 tvg-id="" tvg-name="PT: TOROS TV" tvg-logo="https://docdog.top/logo/countries/portugal/torostv.png" group-title="PT | PORTUGAL",PT: TOROS TV
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25082
+#EXTINF:-1 tvg-id="" tvg-name="PT: ✦●✦DOCUMENTÁRIO✦●✦" tvg-logo="https://docdog.top/logo/countries/portugal/countrypic.png" group-title="PT | PORTUGAL",PT: ✦●✦DOCUMENTÁRIO✦●✦
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/56050
+#EXTINF:-1 tvg-id="" tvg-name="PT: A&E" tvg-logo="https://docdog.top/logo/countries/portugal/ae.png" group-title="PT | PORTUGAL",PT: A&E
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/24988
+#EXTINF:-1 tvg-id="" tvg-name="PT: CRIME & INVESTIGATION" tvg-logo="https://docdog.top/logo/countries/portugal/crimeandinvestigation.png" group-title="PT | PORTUGAL",PT: CRIME & INVESTIGATION
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25018
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/portugal/discoverychannel.png" group-title="PT | PORTUGAL",PT: DISCOVERY CHANNEL
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25019
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISCOVERY SHOWCASE" tvg-logo="https://docdog.top/logo/countries/portugal/discoveryshowcase.png" group-title="PT | PORTUGAL",PT: DISCOVERY SHOWCASE
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25020
+#EXTINF:-1 tvg-id="" tvg-name="PT: HISTORIA" tvg-logo="https://docdog.top/logo/countries/portugal/historia.png" group-title="PT | PORTUGAL",PT: HISTORIA
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25040
+#EXTINF:-1 tvg-id="" tvg-name="PT: ID INVESTIGATION" tvg-logo="https://docdog.top/logo/countries/portugal/ID.png" group-title="PT | PORTUGAL",PT: ID INVESTIGATION
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25042
+#EXTINF:-1 tvg-id="" tvg-name="PT: NAT GEO" tvg-logo="https://docdog.top/logo/countries/portugal/natgeo.png" group-title="PT | PORTUGAL",PT: NAT GEO
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25051
+#EXTINF:-1 tvg-id="" tvg-name="PT: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/portugal/natgeowild.png" group-title="PT | PORTUGAL",PT: NAT GEO WILD
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25052
+#EXTINF:-1 tvg-id="" tvg-name="PT: ODISSEIA" tvg-logo="https://docdog.top/logo/countries/portugal/odisseia.png" group-title="PT | PORTUGAL",PT: ODISSEIA
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25058
+#EXTINF:-1 tvg-id="" tvg-name="PT: TRAVEL CHANNEL" tvg-logo="https://docdog.top/logo/countries/portugal/travelchannel.png" group-title="PT | PORTUGAL",PT: TRAVEL CHANNEL
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25084
+#EXTINF:-1 tvg-id="" tvg-name="PT: ✦●✦CRIANÇAS✦●✦" tvg-logo="https://docdog.top/logo/countries/portugal/countrypic.png" group-title="PT | PORTUGAL",PT: ✦●✦CRIANÇAS✦●✦
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/56052
+#EXTINF:-1 tvg-id="" tvg-name="PT: CARTOON NETWORK" tvg-logo="https://docdog.top/logo/countries/portugal/cartoonnetwork.png" group-title="PT | PORTUGAL",PT: CARTOON NETWORK
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/24985
+#EXTINF:-1 tvg-id="" tvg-name="PT: BABY TV" tvg-logo="https://docdog.top/logo/countries/portugal/babytv.png" group-title="PT | PORTUGAL",PT: BABY TV
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/24995
+#EXTINF:-1 tvg-id="" tvg-name="PT: BIGGS" tvg-logo="https://docdog.top/logo/countries/portugal/biggs.png" group-title="PT | PORTUGAL",PT: BIGGS
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/24998
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL PANDA" tvg-logo="https://docdog.top/logo/countries/portugal/canalpanda.png" group-title="PT | PORTUGAL",PT: CANAL PANDA
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25005
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISNEY CHANNEL" tvg-logo="https://docdog.top/logo/countries/portugal/disneychannel.png" group-title="PT | PORTUGAL",PT: DISNEY CHANNEL
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25021
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISNEY JUNIOR" tvg-logo="https://docdog.top/logo/countries/portugal/disneyjunior.png" group-title="PT | PORTUGAL",PT: DISNEY JUNIOR
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25022
+#EXTINF:-1 tvg-id="" tvg-name="PT: JIM JAM" tvg-logo="https://docdog.top/logo/countries/portugal/jimjam.png" group-title="PT | PORTUGAL",PT: JIM JAM
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25043
+#EXTINF:-1 tvg-id="" tvg-name="PT: NICK JR" tvg-logo="https://docdog.top/logo/countries/portugal/nickjr.png" group-title="PT | PORTUGAL",PT: NICK JR
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25055
+#EXTINF:-1 tvg-id="" tvg-name="PT: NICKELODEON" tvg-logo="https://docdog.top/logo/countries/portugal/nickelodeon.png" group-title="PT | PORTUGAL",PT: NICKELODEON
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25056
+#EXTINF:-1 tvg-id="" tvg-name="PT: ✦●✦MÚSICA✦●✦" tvg-logo="https://docdog.top/logo/countries/portugal/countrypic.png" group-title="PT | PORTUGAL",PT: ✦●✦MÚSICA✦●✦
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/56051
+#EXTINF:-1 tvg-id="" tvg-name="PT: MCM POP" tvg-logo="https://docdog.top/logo/countries/portugal/mcmpop.png" group-title="PT | PORTUGAL",PT: MCM POP
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25046
+#EXTINF:-1 tvg-id="" tvg-name="PT: MCM TUP" tvg-logo="https://docdog.top/logo/countries/portugal/mcmtop.png" group-title="PT | PORTUGAL",PT: MCM TUP
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25047
+#EXTINF:-1 tvg-id="" tvg-name="PT: MTV PORTUGAL" tvg-logo="https://docdog.top/logo/countries/portugal//mtvportugal.jpg" group-title="PT | PORTUGAL",PT: MTV PORTUGAL
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25049
+#EXTINF:-1 tvg-id="" tvg-name="PT: PFC" tvg-logo="https://docdog.top/logo/countries/portugal/pfc.png" group-title="PT | PORTUGAL",PT: PFC
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25061
+#EXTINF:-1 tvg-id="" tvg-name="PT: TRACE URBAN" tvg-logo="https://docdog.top/logo/countries/portugal/traceurban.png" group-title="PT | PORTUGAL",PT: TRACE URBAN
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25083
+#EXTINF:-1 tvg-id="" tvg-name="PT: VH1" tvg-logo="https://docdog.top/logo/countries/portugal/vh1.png" group-title="PT | PORTUGAL",PT: VH1
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25089
+#EXTINF:-1 tvg-id="" tvg-name="PT: ZAP VIVA" tvg-logo="https://docdog.top/logo/countries/portugal/zapviva.png" group-title="PT | PORTUGAL",PT: ZAP VIVA
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25090
+#EXTINF:-1 tvg-id="" tvg-name="PT: CNN" tvg-logo="https://docdog.top/logo/countries/portugal/cnn.png" group-title="PT | PORTUGAL",PT: CNN
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/57262
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/portugal/eurosport-1.png" group-title="PT | PORTUGAL",PT: EUROSPORT 1
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/57263
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 2" tvg-logo="https://docdog.top/logo/countries/portugal/eurosport-2.png" group-title="PT | PORTUGAL",PT: EUROSPORT 2
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/57264
