@@ -6,14 +6,12 @@ http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25078
 http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25086
 #EXTINF:-1 tvg-id="" tvg-name="PT: CMTV" tvg-logo="https://docdog.top/logo/countries/portugal/cmtv.png" group-title="PT | PORTUGAL",PT: CMTV
 http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25017
-
 #EXTINF:-1 tvg-id="" tvg-name="PT: EURO NEWS" tvg-logo="https://docdog.top/logo/countries/portugal/euronews.png" group-title="PT | PORTUGAL",PT: EURO NEWS
 http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25030
 #EXTINF:-1 tvg-id="" tvg-name="PT: PORTO CANAL" tvg-logo="https://docdog.top/logo/countries/portugal/portocanal.png" group-title="PT | PORTUGAL",PT: PORTO CANAL
 http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25062
 #EXTINF:-1 tvg-id="" tvg-name="PT: CANAL 11" tvg-logo="https://docdog.top/logo/countries/portugal/canal11.png" group-title="PT | PORTUGAL",PT: CANAL 11
 http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25004
-
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV +" tvg-logo="https://docdog.top/logo/countries/portugal/sport-tv-mais-pt.png" group-title="PT | PORTUGAL",PT: SPORT TV +
 http://norrfqf.top:8080/8821732529904621/b25eccf9535e/29668
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv1.png" group-title="PT | PORTUGAL",PT: SPORT TV 1
@@ -50,6 +48,8 @@ http://norrfqf.top:8080/8821732529904621/b25eccf9535e/57264
 http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25006
 #EXTINF:-1 tvg-id="" tvg-name="PT: 24 KITCHEN" tvg-logo="https://docdog.top/logo/countries/portugal/24kitchen.png" group-title="PT | PORTUGAL",PT: 24 KITCHEN
 http://norrfqf.top:8080/8821732529904621/b25eccf9535e/24986
+#EXTINF:-1 tvg-id="" tvg-name="PT: TRAVEL CHANNEL" tvg-logo="https://docdog.top/logo/countries/portugal/travelchannel.png" group-title="PT | PORTUGAL",PT: TRAVEL CHANNEL
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25084
 #EXTINF:-1 tvg-id="" tvg-name="PT: ✦●✦CRIANÇAS✦●✦" tvg-logo="https://docdog.top/logo/countries/portugal/countrypic.png" group-title="PT | PORTUGAL",PT: ✦●✦CRIANÇAS✦●✦
 http://norrfqf.top:8080/8821732529904621/b25eccf9535e/56052
 #EXTINF:-1 tvg-id="" tvg-name="PT: CARTOON NETWORK" tvg-logo="https://docdog.top/logo/countries/portugal/cartoonnetwork.png" group-title="PT | PORTUGAL",PT: CARTOON NETWORK
@@ -110,8 +110,7 @@ http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25041
 http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25072
 #EXTINF:-1 tvg-id="" tvg-name="PT: AMC" tvg-logo="https://docdog.top/logo/countries/portugal/amc.png" group-title="PT | PORTUGAL",PT: AMC
 http://norrfqf.top:8080/8821732529904621/b25eccf9535e/24989
-#EXTINF:-1 tvg-id="" tvg-name="PT: TRAVEL CHANNEL" tvg-logo="https://docdog.top/logo/countries/portugal/travelchannel.png" group-title="PT | PORTUGAL",PT: TRAVEL CHANNEL
-http://norrfqf.top:8080/8821732529904621/b25eccf9535e/25084
+
 
 #EXTINF:-1 tvg-id="" tvg-name="PT: ✦●✦GERAL✦●✦" tvg-logo="https://docdog.top/logo/countries/portugal/countrypic.png" group-title="PT | PORTUGAL",PT: ✦●✦GERAL✦●✦
 http://norrfqf.top:8080/8821732529904621/b25eccf9535e/56047
@@ -335,3 +334,9 @@ http://norrfqf.top:8080/8821732529904621/b25eccf9535e/5643
 http://norrfqf.top:8080/8821732529904621/b25eccf9535e/57481
 #EXTINF:-1 tvg-id="M.Deportes2.es" tvg-name="ES: M+ DEPORTES 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-2-es.png" group-title="ES | DEPORTES",ES: M+ DEPORTES 2
 http://norrfqf.top:8080/8821732529904621/b25eccf9535e/5639
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Torreira
+https://video-auth1.iol.pt/beachcam/torreira/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Foz do Arelho
+https://video-auth1.iol.pt/beachcam/bcfozdoarelho/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Carvoeiro
+https://video-auth1.iol.pt/beachcam/carvoeiro/playlist.m3u8
