@@ -424,6 +424,20 @@ http://norrfqf.top:8080/8821732529904621/b25eccf9535e/29577
 http://norrfqf.top:8080/8821732529904621/b25eccf9535e/29578
 #EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM FUSSBALL 5" tvg-logo="https://docdog.top/logo/countries/germany/telekomfussball5.png" group-title="DE | GERMANY",DE: TELEKOM FUSSBALL 5
 http://norrfqf.top:8080/8821732529904621/b25eccf9535e/29579
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="LAME | ARGENTINA",ARG: ESPN
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/10011
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 2" tvg-logo="https://docdog.top/logo/countries//argentina/espn-2-ar.png" group-title="LAME | ARGENTINA",ARG: ESPN 2
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/10009
+#EXTINF:-1 tvg-id="" tvg-name="BE: PLAY SPORTS 1" tvg-logo="https://docdog.top/logo/countries/belgium/play-sports-1-be.png" group-title="EURO | BELGIUM",BE: PLAY SPORTS 1
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/8569
+#EXTINF:-1 tvg-id="" tvg-name="BE: PLAY SPORTS 2" tvg-logo="https://docdog.top/logo/countries/belgium/play-sports-2-be.png" group-title="EURO | BELGIUM",BE: PLAY SPORTS 2
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/8570
+#EXTINF:-1 tvg-id="" tvg-name="BE: PLAY SPORTS 3" tvg-logo="https://docdog.top/logo/countries/belgium/playsports3.png" group-title="EURO | BELGIUM",BE: PLAY SPORTS 3
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/8606
+#EXTINF:-1 tvg-id="" tvg-name="BE: PLAY SPORTS 4" tvg-logo="https://docdog.top/logo/countries/belgium/play-sports-4-be.png" group-title="EURO | BELGIUM",BE: PLAY SPORTS 4
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/8571
+#EXTINF:-1 tvg-id="" tvg-name="BE: PLAY SPORTS 5" tvg-logo="https://docdog.top/logo/countries/belgium/play-sports-5-be.png" group-title="EURO | BELGIUM",BE: PLAY SPORTS 5
+http://norrfqf.top:8080/8821732529904621/b25eccf9535e/8572
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Torreira
 https://video-auth1.iol.pt/beachcam/torreira/playlist.m3u8
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Foz do Arelho
