@@ -94,3 +94,15 @@ http://aydntmtn.mexamo.xyz:80/FEARF9YF/5W733EK5/3059
 http://aydntmtn.mexamo.xyz:80/FEARF9YF/5W733EK5/3058
 #EXTINF:-1 tvg-id="cosmotesport9hd.gr" tvg-name="GR| COSMOTE SPORT 9 HD" tvg-logo="https://lo1.in/gr/cossp9.png" group-title="EU | GREECE ΑΘΛΗΤΙΚΑ",GR| COSMOTE SPORT 9 HD
 http://aydntmtn.mexamo.xyz:80/FEARF9YF/5W733EK5/3057
+#EXTINF:-1 tvg-id="ringbg.bg" tvg-name="BG| RING BG HD" tvg-logo="https://lo1.in/bulg/RING BG.png" group-title="EU | BULGARIA",BG| RING BG HD
+http://aydntmtn.mexamo.xyz:80/FEARF9YF/5W733EK5/29897
+#EXTINF:-1 tvg-id="" tvg-name="FR-REU| Bein sports 1 HD" tvg-logo="https://lo1.in/fr/bns1.png" group-title="EU | FRANCE DOM TOM ",FR-REU| Bein sports 1 HD
+http://aydntmtn.mexamo.xyz:80/FEARF9YF/5W733EK5/4770
+#EXTINF:-1 tvg-id="" tvg-name="FR-REU| Bein sports 2 HD" tvg-logo="https://lo1.in/fr/bns2.png" group-title="EU | FRANCE DOM TOM ",FR-REU| Bein sports 2 HD
+http://aydntmtn.mexamo.xyz:80/FEARF9YF/5W733EK5/4769
+#EXTINF:-1 tvg-id="" tvg-name="FR-REU| Bein sports 3 HD" tvg-logo="https://lo1.in/fr/bns3.png" group-title="EU | FRANCE DOM TOM ",FR-REU| Bein sports 3 HD
+http://aydntmtn.mexamo.xyz:80/FEARF9YF/5W733EK5/4768
+#EXTINF:-1 tvg-id="" tvg-name="FR-REU| Bein sports max 4 HD" tvg-logo="https://lo1.in/fr/bnsm4.png" group-title="EU | FRANCE DOM TOM ",FR-REU| Bein sports max 4 HD
+http://aydntmtn.mexamo.xyz:80/FEARF9YF/5W733EK5/4767
+#EXTINF:-1 tvg-id="" tvg-name="FR-REU| Bein sports max 5 HD" tvg-logo="https://lo1.in/fr/bnsm5.png" group-title="EU | FRANCE DOM TOM ",FR-REU| Bein sports max 5 HD
+http://aydntmtn.mexamo.xyz:80/FEARF9YF/5W733EK5/4766
