@@ -74,6 +74,14 @@ http://aydntmtn.mexamo.xyz:80/FEARF9YF/5W733EK5/3960
 http://aydntmtn.mexamo.xyz:80/FEARF9YF/5W733EK5/30827
 #EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="PT| 24 KITCHEN FHD" tvg-logo="https://lo1.in/por/24kithd.png" group-title="EU | PORTUGAL FHD",PT| 24 KITCHEN FHD
 http://aydntmtn.mexamo.xyz:80/FEARF9YF/5W733EK5/30720
+#EXTINF:-1 tvg-id="elevensports1.pl" tvg-name="PL| ELEVEN SPORTS 1 FHD" tvg-logo="https://lo1.in/pol/ele.png" group-title="EU | POLAND SPORTS",PL| ELEVEN SPORTS 1 FHD
+http://aydntmtn.mexamo.xyz:80/FEARF9YF/5W733EK5/22467
+#EXTINF:-1 tvg-id="elevensports2.pl" tvg-name="PL| ELEVEN SPORTS 2 FHD" tvg-logo="https://lo1.in/pol/eles2.png" group-title="EU | POLAND SPORTS",PL| ELEVEN SPORTS 2 FHD
+http://aydntmtn.mexamo.xyz:80/FEARF9YF/5W733EK5/22468
+#EXTINF:-1 tvg-id="elevensports3.pl" tvg-name="PL| ELEVEN SPORTS 3 FHD" tvg-logo="https://lo1.in/pol/elvs3.png" group-title="EU | POLAND SPORTS",PL| ELEVEN SPORTS 3 FHD
+http://aydntmtn.mexamo.xyz:80/FEARF9YF/5W733EK5/22469
+#EXTINF:-1 tvg-id="elevensportsports4.pl" tvg-name="PL| ELEVEN SPORTS 4 FHD" tvg-logo="https://lo1.in/pol/evl4.png" group-title="EU | POLAND SPORTS",PL| ELEVEN SPORTS 4 FHD
+http://aydntmtn.mexamo.xyz:80/FEARF9YF/5W733EK5/22470
 #EXTINF:-1 tvg-id="" tvg-name="✦●✦|GR| COSMOTE✦●✦" tvg-logo="https://lo1.in/gr/greec.png" group-title="EU | GREECE ΑΘΛΗΤΙΚΑ",✦●✦|GR| COSMOTE✦●✦
 http://aydntmtn.mexamo.xyz:80/FEARF9YF/5W733EK5/33322
 #EXTINF:-1 tvg-id="cosmotesport1.gr" tvg-name="GR| COSMOTE SPORT 1 HD" tvg-logo="https://lo1.in/gr/cossp1.png" group-title="EU | GREECE ΑΘΛΗΤΙΚΑ",GR| COSMOTE SPORT 1 HD
