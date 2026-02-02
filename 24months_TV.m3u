@@ -234,3 +234,9 @@ http://vipzpqsexox.top:8080/VIP0112175379459091/zug9nxe7u5ik/128994
 http://vipzpqsexox.top:8080/VIP0112175379459091/zug9nxe7u5ik/128995
 #EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT 6" tvg-logo="" group-title="NL | SPORT VIP",NL: ZIGGO SPORT 6
 http://vipzpqsexox.top:8080/VIP0112175379459091/zug9nxe7u5ik/128996
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Torreira
+https://video-auth1.iol.pt/beachcam/torreira/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Foz do Arelho
+https://video-auth1.iol.pt/beachcam/bcfozdoarelho/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Carvoeiro
+https://video-auth1.iol.pt/beachcam/carvoeiro/playlist.m3u8
